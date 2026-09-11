@@ -1,5 +1,7 @@
 # French Vocabulary
 
+🌐 [Open App](https://kyeongsoolee.github.io/french-vocabulary)
+
 A French vocabulary learning app for Korean speakers.
 
 Built around short, repeatable study sessions with vocabulary, listening, pronunciation, review, and progress tracking.
