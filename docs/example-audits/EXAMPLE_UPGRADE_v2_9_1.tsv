@@ -1,0 +1,168 @@
+id	level	category	word	old_example	new_example	new_ko	new_en
+v0564	A1-A2	L’ENDROIT	la campagne	Nous passons près de la campagne.	Ils ont quitté la ville pour vivre à la campagne.	그들은 시골에서 살기 위해 도시를 떠났다.	They left the city to live in the countryside.
+v0565	A1-A2	L’ENDROIT	la ville	Nous passons près de la ville.	Je préfère vivre en ville parce que tout est plus proche.	나는 모든 것이 가까워서 도시에 사는 것을 더 좋아한다.	I prefer living in the city because everything is closer.
+v0566	A1-A2	L’ENDROIT	la cité	Nous passons près de la cité.	La vieille cité est entourée de remparts.	그 오래된 도시는 성벽으로 둘러싸여 있다.	The old city is surrounded by walls.
+v0567	A1-A2	L’ENDROIT	la métropole	Nous passons près de la métropole.	Cette métropole attire des travailleurs du monde entier.	이 대도시는 전 세계에서 노동자들을 끌어들인다.	This metropolis attracts workers from all over the world.
+v0571	A1-A2	L’ENDROIT	la gare	Nous passons près de la gare.	Le train part de la gare à huit heures dix.	기차는 8시 10분에 역에서 출발한다.	The train leaves the station at 8:10.
+v0572	A1-A2	L’ENDROIT	la station de métro	Nous passons près de la station de métro.	La station de métro la plus proche est à cinq minutes à pied.	가장 가까운 지하철역은 걸어서 5분 거리다.	The nearest subway station is a five-minute walk away.
+v0573	A1-A2	L’ENDROIT	l'arrêt de bus (m.)	Nous passons près de l'arrêt de bus.	L'arrêt de bus se trouve juste devant la banque.	버스 정류장은 은행 바로 앞에 있다.	The bus stop is right in front of the bank.
+v0574	A1-A2	L’ENDROIT	la rue	Nous passons près de la rue.	Tournez à gauche au bout de la rue.	거리 끝에서 왼쪽으로 도세요.	Turn left at the end of the street.
+v0576	A1-A2	L’ENDROIT	la route	Nous passons près de la route.	La route est fermée à cause des travaux.	공사 때문에 도로가 폐쇄되어 있다.	The road is closed because of construction.
+v0577	A1-A2	L’ENDROIT	l'autoroute (m./f.)	Nous passons près de l'autoroute.	Nous prenons l'autoroute pour gagner du temps.	우리는 시간을 아끼기 위해 고속도로를 탄다.	We take the highway to save time.
+v0579	A1-A2	L’ENDROIT	la voie	Nous passons près de la voie.	Restez dans la voie de droite jusqu'à la prochaine sortie.	다음 출구까지 오른쪽 차선을 유지하세요.	Stay in the right lane until the next exit.
+v0589	A1-A2	L’ENDROIT	la boîte	Nous passons près de la boîte.	On va en boîte après le dîner pour danser.	우리는 저녁 식사 후 춤추러 클럽에 간다.	We're going to a nightclub after dinner to dance.
+v0590	A1-A2	L’ENDROIT	la pâtisserie	Nous passons près de la pâtisserie.	J'ai acheté deux éclairs à la pâtisserie du quartier.	나는 동네 제과점에서 에클레어 두 개를 샀다.	I bought two éclairs at the neighborhood pastry shop.
+v0591	A1-A2	L’ENDROIT	la boulangerie	Nous passons près de la boulangerie.	Je passe à la boulangerie acheter une baguette fraîche.	나는 신선한 바게트를 사려고 빵집에 들른다.	I stop by the bakery to buy a fresh baguette.
+v0592	A1-A2	L’ENDROIT	la boucherie	Nous passons près de la boucherie.	Je vais à la boucherie acheter du poulet pour le dîner.	나는 저녁에 먹을 닭고기를 사려고 정육점에 간다.	I go to the butcher shop to buy chicken for dinner.
+v0593	A1-A2	L’ENDROIT	la fromagerie	Nous passons près de la fromagerie.	Cette fromagerie propose plusieurs fromages locaux.	이 치즈 가게에서는 여러 지역 치즈를 판매한다.	This cheese shop offers several local cheeses.
+v0594	A1-A2	L’ENDROIT	la poste	Nous passons près de la poste.	Je vais à la poste pour envoyer ce colis.	나는 이 소포를 보내려고 우체국에 간다.	I go to the post office to send this package.
+v0595	A1-A2	L’ENDROIT	la banque	Nous passons près de la banque.	Je dois passer à la banque pour déposer un chèque.	나는 수표를 입금하려고 은행에 들러야 한다.	I need to stop by the bank to deposit a check.
+v0597	A1-A2	L’ENDROIT	la caserne de pompiers	Nous passons près de la caserne de pompiers.	La caserne de pompiers se trouve derrière l'école.	소방서는 학교 뒤에 있다.	The fire station is behind the school.
+v0599	A1-A2	L’ENDROIT	la bibliothèque	Nous passons près de la bibliothèque.	Je travaille à la bibliothèque quand j'ai besoin de calme.	나는 조용한 곳이 필요할 때 도서관에서 공부한다.	I study at the library when I need a quiet place.
+v0600	A1-A2	L’ENDROIT	la librairie	Nous passons près de la librairie.	Je vais à la librairie chercher un livre de grammaire.	나는 문법책을 찾으러 서점에 간다.	I go to the bookstore to look for a grammar book.
+v0605	A1-A2	L’ENDROIT	l'hôpital (m.)	Nous passons près de l'hôpital.	Il a été conduit à l'hôpital après l'accident.	그는 사고 후 병원으로 이송되었다.	He was taken to the hospital after the accident.
+v0606	A1-A2	L’ENDROIT	la pharmacie	Nous passons près de la pharmacie.	Je vais à la pharmacie chercher mes médicaments.	나는 약을 받으러 약국에 간다.	I go to the pharmacy to pick up my medication.
+v0607	A1-A2	L’ENDROIT	l'hôtel (m.)	Nous passons près de l'hôtel.	Nous avons réservé une chambre d'hôtel pour deux nuits.	우리는 호텔 방을 이틀 밤 예약했다.	We booked a hotel room for two nights.
+v0608	A1-A2	L’ENDROIT	l'office de tourisme (m.)	Nous passons près de l'office de tourisme.	L'office de tourisme nous a donné un plan de la ville.	관광 안내소에서 우리에게 도시 지도를 주었다.	The tourist office gave us a city map.
+v0609	A1-A2	L’ENDROIT	la mairie	Nous passons près de la mairie.	Je dois aller à la mairie pour demander ce document.	나는 이 서류를 신청하려고 시청에 가야 한다.	I need to go to city hall to request this document.
+v0610	A1-A2	L’ENDROIT	l'hôtel de Ville (m.)	Nous passons près de l'hôtel de Ville.	L'hôtel de Ville se trouve sur la place principale.	시청은 중앙 광장에 있다.	City Hall is on the main square.
+v0611	A1-A2	L’ENDROIT	la place	Nous passons près de la place.	On se retrouve sur la place devant la fontaine.	우리는 분수 앞 광장에서 만나기로 한다.	We'll meet in the square in front of the fountain.
+v0612	A1-A2	L’ENDROIT	l'église (f.)	Nous passons près de l'église.	L'église du village date du dix-neuvième siècle.	그 마을의 교회는 19세기에 지어졌다.	The village church dates from the nineteenth century.
+v0613	A1-A2	L’ENDROIT	la cathédrale	Nous passons près de la cathédrale.	La cathédrale attire de nombreux visiteurs chaque année.	그 대성당은 매년 많은 방문객을 끌어들인다.	The cathedral attracts many visitors every year.
+v0614	A1-A2	L’ENDROIT	la chapelle	Nous passons près de la chapelle.	La petite chapelle se trouve au sommet de la colline.	작은 예배당은 언덕 꼭대기에 있다.	The small chapel is at the top of the hill.
+v0617	A1-A2	L’ENDROIT	l'appartement	Nous passons près de l'appartement.	Nous cherchons un appartement près du métro.	우리는 지하철 근처의 아파트를 찾고 있다.	We're looking for an apartment near the subway.
+v0618	A1-A2	L’ENDROIT	l'usine (f.)	Nous passons près de l'usine.	Cette usine fabrique des pièces automobiles.	이 공장에서는 자동차 부품을 생산한다.	This factory makes automobile parts.
+v0619	A1-A2	L’ENDROIT	la société	Nous passons près de la société.	Il travaille dans une société de conseil.	그는 컨설팅 회사에서 일한다.	He works for a consulting company.
+v0620	A1-A2	L’ENDROIT	l'entreprise (f.)	Nous passons près de l'entreprise.	Elle a créé sa propre entreprise il y a trois ans.	그녀는 3년 전에 자신의 회사를 세웠다.	She started her own company three years ago.
+v0622	A1-A2	L’ENDROIT	l'école (f.)	Nous passons près de l'école.	Les enfants vont à l'école à pied.	아이들은 걸어서 학교에 간다.	The children walk to school.
+v0623	A1-A2	L’ENDROIT	la classe	Nous passons près de la classe.	Toute la classe prépare une présentation pour demain.	반 전체가 내일 발표를 준비하고 있다.	The whole class is preparing a presentation for tomorrow.
+v0627	A1-A2	L’ENDROIT	l'université (f.)	Nous passons près de l'université.	Elle étudie l'économie à l'université.	그녀는 대학에서 경제학을 공부한다.	She studies economics at university.
+v0628	A1-A2	L’ENDROIT	la station-service	Nous passons près de la station-service.	Nous nous arrêtons à la station-service pour faire le plein.	우리는 주유하려고 주유소에 들른다.	We stop at the gas station to fill up.
+v0630	A1-A2	L’ENDROIT	la piscine	Nous passons près de la piscine.	Je vais à la piscine deux fois par semaine.	나는 일주일에 두 번 수영장에 간다.	I go to the pool twice a week.
+v0631	A1-A2	L’ENDROIT	la mer	Nous passons près de la mer.	On voit la mer depuis la fenêtre de l'hôtel.	호텔 창문에서 바다가 보인다.	We can see the sea from the hotel window.
+v0632	A1-A2	L’ENDROIT	la plage	Nous passons près de la plage.	Nous allons à la plage tôt le matin pour éviter la foule.	우리는 사람들을 피하려고 아침 일찍 해변에 간다.	We go to the beach early in the morning to avoid the crowd.
+v0633	A1-A2	L’ENDROIT	l'île (f.)	Nous passons près de l'île.	L'île est accessible uniquement en bateau.	그 섬은 배로만 갈 수 있다.	The island can only be reached by boat.
+v0636	A1-A2	L’ENDROIT	la rivière	Nous passons près de la rivière.	Une petite rivière traverse le village.	작은 강이 마을을 가로질러 흐른다.	A small river runs through the village.
+v0638	A1-A2	L’ENDROIT	la montagne	Nous passons près de la montagne.	Nous partons à la montagne pendant les vacances d'hiver.	우리는 겨울 휴가에 산으로 간다.	We go to the mountains during the winter holidays.
+v0639	A1-A2	L’ENDROIT	la forêt	Nous passons près de la forêt.	Il est facile de se perdre dans cette forêt sans carte.	이 숲에서는 지도 없이 길을 잃기 쉽다.	It is easy to get lost in this forest without a map.
+v0642	A1-A2	L’ENDROIT	la colline	Nous passons près de la colline.	La maison se trouve sur une colline qui domine la vallée.	그 집은 계곡이 내려다보이는 언덕 위에 있다.	The house is on a hill overlooking the valley.
+v0643	A1-A2	L’ENDROIT	la butte	Nous passons près de la butte.	Les enfants jouent sur une petite butte derrière la maison.	아이들은 집 뒤의 작은 둔덕에서 논다.	The children play on a small mound behind the house.
+v0650	A1-A2	L’ENDROIT	la jungle	Nous passons près de la jungle.	Il faut un guide expérimenté pour traverser cette jungle.	이 정글을 통과하려면 경험 많은 가이드가 필요하다.	You need an experienced guide to cross this jungle.
+v0654	A1-A2	L’ENDROIT	la tour	Nous passons près de la tour.	On peut voir toute la ville depuis le sommet de la tour.	탑 꼭대기에서 도시 전체를 볼 수 있다.	You can see the whole city from the top of the tower.
+v0656	A1-A2	L’ENDROIT	l'immeuble (m.)	Nous passons près de l'immeuble.	Notre bureau se trouve au troisième étage de cet immeuble.	우리 사무실은 이 건물 3층에 있다.	Our office is on the third floor of this building.
+v0659	A1-A2	L’ENDROIT	la prison	Nous passons près de la prison.	Il a été condamné à plusieurs années de prison.	그는 수년의 징역형을 선고받았다.	He was sentenced to several years in prison.
+v0660	A1-A2	L’ENDROIT	la ferme	Nous passons près de la ferme.	Cette ferme produit des légumes et des œufs.	이 농장에서는 채소와 달걀을 생산한다.	This farm produces vegetables and eggs.
+v1865	B1-B2	L’adjectif	admissible	C'est admissible.	Ce retard reste admissible, mais pas au-delà de vingt minutes.	이 정도 지연은 아직 용인할 수 있지만 20분을 넘기면 안 된다.	This delay is still acceptable, but not beyond twenty minutes.
+v1866	B1-B2	L’adjectif	acide	C'est acide.	Cette sauce est trop acide ; ajoute un peu de sucre.	이 소스는 너무 시니 설탕을 조금 넣어.	This sauce is too acidic; add a little sugar.
+v1867	B1-B2	L’adjectif	affolé	C'est affolé.	Il avait l'air affolé quand il a perdu son passeport.	그는 여권을 잃어버렸을 때 몹시 당황한 것처럼 보였다.	He looked panicked when he lost his passport.
+v1868	B1-B2	L’adjectif	assuré(e)	C'est assuré.	Elle paraît plus assurée depuis qu'elle s'entraîne à parler en public.	그녀는 사람들 앞에서 말하는 연습을 한 뒤로 더 자신 있어 보인다.	She seems more confident since she started practicing public speaking.
+v1869	B1-B2	L’adjectif	agaçant(e)	C'est agaçant.	Ce bruit répétitif devient vraiment agaçant.	이 반복되는 소리는 정말 짜증나기 시작한다.	This repetitive noise is becoming really annoying.
+v1870	B1-B2	L’adjectif	amical(e)	C'est amical.	Nous avons eu un échange amical malgré notre désaccord.	우리는 의견이 달랐지만 우호적으로 대화를 나눴다.	We had a friendly exchange despite our disagreement.
+v1871	B1-B2	L’adjectif	ambigu / ambiguë	C'est ambigu.	Le message est ambigu : on ne sait pas s'il accepte ou refuse.	그 메시지는 애매해서 그가 수락하는지 거절하는지 알 수 없다.	The message is ambiguous; we can't tell whether he accepts or refuses.
+v1872	B1-B2	L’adjectif	bouché(e)	C'est bouché.	L'évier est bouché, donc l'eau ne s'écoule plus.	싱크대가 막혀서 물이 더 이상 빠지지 않는다.	The sink is clogged, so the water no longer drains.
+v1873	B1-B2	L’adjectif	bouclé(e)	C'est bouclé.	Elle a les cheveux naturellement bouclés.	그녀는 원래 곱슬머리다.	She has naturally curly hair.
+v1874	B1-B2	L’adjectif	borné(e)	C'est borné.	Il reste borné et refuse d'écouter les arguments des autres.	그는 편협하게 굴며 다른 사람들의 주장을 들으려 하지 않는다.	He remains narrow-minded and refuses to listen to other people's arguments.
+v1875	B1-B2	L’adjectif	brutal(e)	C'est brutal.	Le changement de température a été brutal cette nuit.	오늘 밤 기온이 급격하게 변했다.	The change in temperature was abrupt last night.
+v1876	B1-B2	L’adjectif	cassé(e)	C'est cassé.	L'écran est cassé, mais le téléphone fonctionne encore.	화면은 깨졌지만 휴대폰은 아직 작동한다.	The screen is broken, but the phone still works.
+v1877	B1-B2	L’adjectif	célèbre	C'est célèbre.	Cette ville est célèbre pour son festival de musique.	이 도시는 음악 축제로 유명하다.	This city is famous for its music festival.
+v1878	B1-B2	L’adjectif	complémentaire	C'est complémentaire.	Ces deux formations sont complémentaires et couvrent des compétences différentes.	이 두 교육 과정은 서로 보완적이며 서로 다른 역량을 다룬다.	These two courses are complementary and cover different skills.
+v1879	B1-B2	L’adjectif	compétitif(ve)	C'est compétitif.	Pour rester compétitive, l'entreprise doit réduire ses coûts.	경쟁력을 유지하려면 회사는 비용을 줄여야 한다.	To remain competitive, the company must reduce its costs.
+v1880	B1-B2	L’adjectif	compliqué(e)	C'est compliqué.	Le formulaire est compliqué à remplir sans aide.	이 양식은 도움 없이 작성하기가 복잡하다.	The form is complicated to fill out without help.
+v1881	B1-B2	L’adjectif	concurrent(e)	C'est concurrent.	Les deux entreprises concurrentes proposent des services similaires.	두 경쟁 회사는 비슷한 서비스를 제공한다.	The two competing companies offer similar services.
+v1882	B1-B2	L’adjectif	crevé	C'est crevé.	Je suis crevé après avoir travaillé toute la journée.	나는 하루 종일 일해서 완전히 지쳤다.	I'm exhausted after working all day.
+v1883	B1-B2	L’adjectif	confus(e)	C'est confus.	Ses explications sont confuses et difficiles à suivre.	그의 설명은 혼란스럽고 따라가기 어렵다.	His explanations are confusing and hard to follow.
+v1884	B1-B2	L’adjectif	curieux / curieuse	C'est curieux.	Je suis curieux de savoir comment ce système fonctionne.	나는 이 시스템이 어떻게 작동하는지 궁금하다.	I'm curious to know how this system works.
+v1885	B1-B2	L’adjectif	dégoûtant(e)	C'est dégoûtant.	Cette odeur est dégoûtante ; ouvre la fenêtre.	이 냄새는 역겨우니 창문을 열어.	This smell is disgusting; open the window.
+v1886	B1-B2	L’adjectif	disponible	C'est disponible.	Le médecin n'est pas disponible avant jeudi.	의사는 목요일 전에는 시간이 안 된다.	The doctor is not available before Thursday.
+v1887	B1-B2	L’adjectif	douteux / douteuse	C'est douteux.	Ce site semble douteux, alors je préfère ne pas payer en ligne.	이 사이트는 의심스러워 보여서 온라인 결제를 하지 않는 편이 낫겠다.	This website seems suspicious, so I'd rather not pay online.
+v1888	B1-B2	L’adjectif	désorienté(e)	C'est désorienté.	Je me suis senti désorienté en sortant de la station.	나는 역에서 나오면서 방향 감각을 잃었다.	I felt disoriented when I came out of the station.
+v1889	B1-B2	L’adjectif	étrange	C'est étrange.	Je trouve étrange qu'il ne nous ait toujours pas répondu.	그가 아직도 우리에게 답하지 않은 것이 이상하게 느껴진다.	I find it strange that he still hasn't replied to us.
+v1890	B1-B2	L’adjectif	étroit(e)	C'est étroit.	Le couloir est trop étroit pour faire passer ce meuble.	이 복도는 이 가구를 옮겨 지나가기에는 너무 좁다.	The hallway is too narrow to move this piece of furniture through.
+v1891	B1-B2	L’adjectif	entier / entière	C'est entier.	J'ai passé la journée entière à préparer le dossier.	나는 하루 종일 그 서류를 준비했다.	I spent the entire day preparing the file.
+v1892	B1-B2	L’adjectif	évident(e)	C'est évident.	Il est évident que cette solution coûtera moins cher.	이 해결책이 비용이 덜 들 것은 분명하다.	It is obvious that this solution will cost less.
+v1893	B1-B2	L’adjectif	ennuyant / ennuyeux(euse)	C'est ennuyant.	Le trajet devient ennuyeux quand il dure plus de deux heures.	이동 시간이 두 시간을 넘으면 지루해진다.	The trip becomes boring when it lasts more than two hours.
+v1894	B1-B2	L’adjectif	effrayant / effrayé(e)	C'est effrayant.	Le bruit était effrayant, et les enfants étaient effrayés.	그 소리는 무서웠고 아이들은 겁을 먹었다.	The noise was frightening, and the children were scared.
+v1895	B1-B2	L’adjectif	épuisant / épuisé(e)	C'est épuisant.	Le voyage a été épuisant ; je suis complètement épuisé.	여행이 너무 고되어서 나는 완전히 지쳤다.	The trip was exhausting; I'm completely exhausted.
+v1896	B1-B2	L’adjectif	excité(e)	C'est excité.	Les enfants sont excités à l'idée de partir en voyage.	아이들은 여행을 간다는 생각에 신이 나 있다.	The children are excited about going on a trip.
+v1897	B1-B2	L’adjectif	foncé(e)	C'est foncé.	Je préfère un bleu foncé pour cette pièce.	나는 이 방에는 진한 파란색이 더 좋다.	I prefer a dark blue for this room.
+v1898	B1-B2	L’adjectif	flemmard(e)	C'est flemmard.	Il devient un peu flemmard le dimanche et ne veut rien faire.	그는 일요일이면 좀 게을러져서 아무것도 하고 싶어 하지 않는다.	He gets a bit lazy on Sundays and doesn't want to do anything.
+v1899	B1-B2	L’adjectif	fier / fière	C'est fier.	Je suis fier d'avoir terminé ce projet à temps.	나는 이 프로젝트를 제시간에 끝낸 것이 자랑스럽다.	I'm proud to have finished this project on time.
+v1900	B1-B2	L’adjectif	fou / folle	C'est fou.	Il serait fou de conduire avec une telle tempête.	이런 폭풍 속에서 운전하는 것은 무모한 일이다.	It would be crazy to drive in a storm like this.
+v1901	B1-B2	L’adjectif	fragile	C'est fragile.	Ce verre est fragile, manipule-le avec précaution.	이 유리잔은 깨지기 쉬우니 조심해서 다뤄.	This glass is fragile, so handle it carefully.
+v1902	B1-B2	L’adjectif	humide	C'est humide.	La salle de bain reste humide si on n'ouvre pas la fenêtre.	창문을 열지 않으면 욕실이 계속 습하다.	The bathroom stays damp if we don't open the window.
+v1903	B1-B2	L’adjectif	honnête	C'est honnête.	Il a été honnête avec moi au sujet de son erreur.	그는 자신의 실수에 대해 나에게 솔직했다.	He was honest with me about his mistake.
+v1904	B1-B2	L’adjectif	individuel(le)	C'est individuel.	Chaque élève reçoit un suivi individuel.	각 학생은 개별적인 지도를 받는다.	Each student receives individual support.
+v1905	B1-B2	L’adjectif	inoubliable	C'est inoubliable.	Ce voyage restera une expérience inoubliable.	이 여행은 잊을 수 없는 경험으로 남을 것이다.	This trip will remain an unforgettable experience.
+v1906	B1-B2	L’adjectif	impulsif / impulsive	C'est impulsif.	Il est impulsif et prend parfois des décisions trop vite.	그는 충동적이어서 가끔 결정을 너무 빨리 내린다.	He is impulsive and sometimes makes decisions too quickly.
+v1907	B1-B2	L’adjectif	identique	C'est identique.	Les deux documents sont presque identiques.	두 문서는 거의 동일하다.	The two documents are almost identical.
+v1908	B1-B2	L’adjectif	identifiable	C'est identifiable.	Le problème est facilement identifiable grâce à ce message d'erreur.	이 오류 메시지 덕분에 문제를 쉽게 식별할 수 있다.	The problem is easily identifiable thanks to this error message.
+v1909	B1-B2	L’adjectif	intact(e)	C'est intact.	Le colis est arrivé intact malgré le long trajet.	그 소포는 긴 운송 과정에도 손상 없이 도착했다.	The package arrived intact despite the long journey.
+v1910	B1-B2	L’adjectif	innocent(e)	C'est innocent.	Il a été déclaré innocent faute de preuves.	그는 증거 부족으로 무죄 판결을 받았다.	He was declared innocent due to lack of evidence.
+v1911	B1-B2	L’adjectif	intégral(e)	C'est intégral.	Le rapport intégral est disponible en ligne.	전체 보고서는 온라인에서 볼 수 있다.	The full report is available online.
+v1912	B1-B2	L’adjectif	improbable	C'est improbable.	Il est improbable qu'il arrive avant midi.	그가 정오 전에 도착할 가능성은 낮다.	It is unlikely that he will arrive before noon.
+v1913	B1-B2	L’adjectif	impropre	C'est impropre.	Cette eau est impropre à la consommation.	이 물은 마시기에 적합하지 않다.	This water is unfit for consumption.
+v1914	B1-B2	L’adjectif	imprécis(e)	C'est imprécis.	La consigne est trop imprécise pour être appliquée correctement.	지시가 너무 부정확해서 제대로 적용하기 어렵다.	The instruction is too imprecise to be applied correctly.
+v1915	B1-B2	L’adjectif	justifiable	C'est justifiable.	Cette dépense est justifiable si elle permet de gagner du temps.	이 비용이 시간을 절약해 준다면 정당화할 수 있다.	This expense is justifiable if it saves time.
+v1917	B1-B2	L’adjectif	local(e)	C'est local.	J'essaie d'acheter des produits locaux quand c'est possible.	나는 가능하면 지역 상품을 사려고 한다.	I try to buy local products whenever possible.
+v1918	B1-B2	L’adjectif	merveilleux / merveilleuse	C'est merveilleux.	Nous avons passé une merveilleuse soirée avec nos amis.	우리는 친구들과 멋진 저녁 시간을 보냈다.	We had a wonderful evening with our friends.
+v1919	B1-B2	L’adjectif	méchant(e)	C'est méchant.	Ne sois pas méchant avec lui simplement parce qu'il s'est trompé.	그가 실수했다는 이유만으로 그에게 못되게 굴지 마.	Don't be mean to him just because he made a mistake.
+v1920	B1-B2	L’adjectif	naïf / naïve	C'est naïf.	Il serait naïf de croire que le problème va disparaître tout seul.	문제가 저절로 사라질 거라고 믿는 것은 순진한 생각이다.	It would be naive to believe that the problem will disappear on its own.
+v1921	B1-B2	L’adjectif	natif / native	C'est natif.	Elle travaille avec un locuteur natif pour améliorer sa prononciation.	그녀는 발음을 향상하려고 원어민 화자와 함께 공부한다.	She works with a native speaker to improve her pronunciation.
+v1922	B1-B2	L’adjectif	négatif / négative	C'est négatif.	Les commentaires négatifs peuvent décourager les nouveaux employés.	부정적인 평가는 신입 직원들의 의욕을 꺾을 수 있다.	Negative comments can discourage new employees.
+v1923	B1-B2	L’adjectif	nombreux / nombreuse	C'est nombreux.	De nombreux candidats ont postulé à ce poste.	많은 지원자가 이 직책에 지원했다.	Many candidates applied for this position.
+v1924	B1-B2	L’adjectif	notable	C'est notable.	On observe une amélioration notable depuis le mois dernier.	지난달 이후 눈에 띄는 개선이 보인다.	There has been a noticeable improvement since last month.
+v1925	B1-B2	L’adjectif	nécessaire	C'est nécessaire.	Il est nécessaire de réserver à l'avance pendant la haute saison.	성수기에는 미리 예약하는 것이 필요하다.	It is necessary to book in advance during the high season.
+v1926	B1-B2	L’adjectif	officiel / officielle	C'est officiel.	La décision deviendra officielle après l'annonce du directeur.	그 결정은 이사의 발표 후 공식적인 결정이 된다.	The decision will become official after the director's announcement.
+v1927	B1-B2	L’adjectif	opposé	C'est opposé.	Son avis est totalement opposé au mien.	그의 의견은 내 의견과 완전히 반대다.	His opinion is completely opposite to mine.
+v1928	B1-B2	L’adjectif	passif / passive	C'est passif.	Il reste trop passif pendant les réunions et donne rarement son avis.	그는 회의에서 너무 소극적이고 거의 의견을 내지 않는다.	He remains too passive during meetings and rarely gives his opinion.
+v1929	B1-B2	L’adjectif	positif / positive	C'est positif.	Les premiers résultats sont positifs, mais il faut encore attendre.	초기 결과는 긍정적이지만 아직 더 기다려야 한다.	The first results are positive, but we still need to wait.
+v1930	B1-B2	L’adjectif	pâle	C'est pâle.	Tu es très pâle ; tu devrais peut-être t'asseoir un moment.	너 얼굴이 너무 창백하니 잠깐 앉는 게 좋겠다.	You look very pale; maybe you should sit down for a while.
+v1931	B1-B2	L’adjectif	pénible	C'est pénible.	Le trajet quotidien devient pénible quand il dure plus d'une heure.	매일 이동 시간이 한 시간을 넘으면 힘들어진다.	The daily commute becomes difficult when it lasts more than an hour.
+v1932	B1-B2	L’adjectif	pris(e)	C'est pris.	Je suis pris toute la matinée, mais je suis libre après deux heures.	나는 오전 내내 바쁘지만 두 시 이후에는 시간이 된다.	I'm busy all morning, but I'm free after two.
+v1933	B1-B2	L’adjectif	populaire	C'est populaire.	Cette application est particulièrement populaire auprès des étudiants.	이 앱은 특히 학생들에게 인기가 많다.	This app is especially popular among students.
+v1934	B1-B2	L’adjectif	profond(e)	C'est profond.	Cette expérience a eu un impact profond sur sa façon de penser.	이 경험은 그의 사고방식에 깊은 영향을 주었다.	This experience had a profound impact on the way he thinks.
+v1935	B1-B2	L’adjectif	précis	C'est précis.	Pouvez-vous être plus précis sur la date et l'heure ?	날짜와 시간에 대해 좀 더 정확히 말씀해 주시겠어요?	Could you be more precise about the date and time?
+v1936	B1-B2	L’adjectif	pauvre	C'est pauvre.	Cette région reste pauvre malgré ses ressources naturelles.	이 지역은 천연자원이 있음에도 여전히 가난하다.	This region remains poor despite its natural resources.
+v1937	B1-B2	L’adjectif	pratique	C'est pratique.	Cette application est pratique pour organiser ses tâches quotidiennes.	이 앱은 일상 업무를 정리하는 데 실용적이다.	This app is practical for organizing daily tasks.
+v1938	B1-B2	L’adjectif	privé	C'est privé.	Je préfère garder cette information privée.	나는 이 정보를 개인적인 것으로 유지하고 싶다.	I prefer to keep this information private.
+v1939	B1-B2	L’adjectif	pur(e)	C'est pur.	Ce produit est composé d'huile d'olive pure.	이 제품은 순수한 올리브유로 만들어졌다.	This product is made with pure olive oil.
+v1940	B1-B2	L’adjectif	pathétique	C'est pathétique.	La scène finale est pathétique et profondément émouvante.	마지막 장면은 비극적이고 깊이 감동적이다.	The final scene is moving and deeply emotional.
+v1941	B1-B2	L’adjectif	régional(e)	C'est régional.	Ce plat est une spécialité régionale très connue.	이 요리는 매우 유명한 지역 특산 음식이다.	This dish is a well-known regional specialty.
+v1942	B1-B2	L’adjectif	raisonnable	C'est raisonnable.	Le prix me paraît raisonnable pour la qualité proposée.	제공되는 품질을 생각하면 가격이 합리적으로 보인다.	The price seems reasonable for the quality offered.
+v1943	B1-B2	L’adjectif	réel / réelle	C'est réel.	Il existe un risque réel de retard si nous partons trop tard.	너무 늦게 출발하면 실제로 지연될 위험이 있다.	There is a real risk of delay if we leave too late.
+v1944	B1-B2	L’adjectif	ridicule	C'est ridicule.	Il serait ridicule d'annuler tout le projet pour une petite erreur.	작은 실수 하나 때문에 프로젝트 전체를 취소하는 것은 우스운 일이다.	It would be ridiculous to cancel the whole project because of one small mistake.
+v1945	B1-B2	L’adjectif	taché(e)	C'est taché.	Ma chemise est tachée de sauce ; je dois la changer.	내 셔츠에 소스 얼룩이 묻어서 갈아입어야 한다.	My shirt is stained with sauce, so I need to change it.
+v2770	B1-B2	La société	la discussion	On parle souvent de la discussion dans les médias.	La discussion a permis de clarifier plusieurs points importants.	토론을 통해 몇 가지 중요한 사항을 명확히 할 수 있었다.	The discussion helped clarify several important points.
+v2774	B1-B2	La société	l'embouteillage (m.)	On parle souvent de l'embouteillage dans les médias.	Un embouteillage sur l'autoroute nous a fait perdre presque une heure.	고속도로 정체 때문에 거의 한 시간을 허비했다.	A traffic jam on the highway cost us almost an hour.
+v2776	B1-B2	La société	la foule	On parle souvent de la foule dans les médias.	Une foule s'est rassemblée devant la salle avant l'ouverture des portes.	문이 열리기 전에 많은 군중이 공연장 앞에 모였다.	A crowd gathered in front of the venue before the doors opened.
+v2777	B1-B2	La société	la population	On parle souvent de la population dans les médias.	La population de la ville continue d'augmenter rapidement.	그 도시의 인구는 계속 빠르게 증가하고 있다.	The city's population continues to grow rapidly.
+v2780	B1-B2	La société	l'émigration (f.)	On parle souvent de l'émigration dans les médias.	L'émigration des jeunes peut aggraver le manque de main-d'œuvre.	젊은 층의 해외 이주는 노동력 부족을 악화시킬 수 있다.	The emigration of young people can worsen labor shortages.
+v2782	B1-B2	La société	l'immigration (f.)	On parle souvent de l'immigration dans les médias.	L'immigration contribue à la diversité culturelle du pays.	이민은 그 나라의 문화적 다양성에 기여한다.	Immigration contributes to the country's cultural diversity.
+v2787	B1-B2	La société	l'asile (m.)	On parle souvent de l'asile dans les médias.	Il a demandé l'asile après avoir fui son pays.	그는 고국을 떠난 뒤 망명을 신청했다.	He applied for asylum after fleeing his country.
+v2790	B1-B2	La société	l'industrialisation (f.)	On parle souvent de l'industrialisation dans les médias.	L'industrialisation rapide a profondément transformé la région.	빠른 산업화가 그 지역을 크게 변화시켰다.	Rapid industrialization profoundly transformed the region.
+v2799	B1-B2	La société	la charité	On parle souvent de la charité dans les médias.	L'association fait appel à la charité du public pour financer ses actions.	그 단체는 활동 자금을 마련하기 위해 대중의 기부와 자선에 호소한다.	The organization appeals to public charity to fund its work.
+v2802	B1-B2	La société	la discrimination	On parle souvent de la discrimination dans les médias.	La loi interdit toute discrimination fondée sur l'âge ou le sexe.	법은 나이나 성별을 이유로 한 모든 차별을 금지한다.	The law prohibits any discrimination based on age or sex.
+v2803	B1-B2	La société	la discrimination raciale	On parle souvent de la discrimination raciale dans les médias.	La discrimination raciale reste un problème grave dans de nombreuses sociétés.	인종 차별은 많은 사회에서 여전히 심각한 문제다.	Racial discrimination remains a serious problem in many societies.
+v2807	B1-B2	La société	la publicité	On parle souvent de la publicité dans les médias.	Cette publicité vise à attirer de nouveaux clients.	이 광고는 신규 고객을 끌어들이는 것을 목표로 한다.	This advertisement aims to attract new customers.
+v2808	B1-B2	La société	la paix	On parle souvent de la paix dans les médias.	Les deux pays ont signé un accord de paix après plusieurs mois de négociations.	두 나라는 수개월간의 협상 끝에 평화 협정을 체결했다.	The two countries signed a peace agreement after several months of negotiations.
+v2812	B1-B2	La société	l'autorité (f.)	On parle souvent de l'autorité dans les médias.	Le directeur a l'autorité nécessaire pour prendre cette décision.	이사는 이 결정을 내릴 권한이 있다.	The director has the authority needed to make this decision.
+v2813	B1-B2	La société	la situation	On parle souvent de la situation dans les médias.	La situation s'est nettement améliorée depuis la semaine dernière.	상황은 지난주 이후 눈에 띄게 좋아졌다.	The situation has improved significantly since last week.
+v2814	B1-B2	La société	l'incident (m.)	On parle souvent de l'incident dans les médias.	L'incident a été signalé à la sécurité dès qu'il s'est produit.	사건이 발생하자마자 보안팀에 보고되었다.	The incident was reported to security as soon as it happened.
+v2817	B1-B2	La société	l'instruction (f.)	On parle souvent de l'instruction dans les médias.	Lisez attentivement les instructions avant d'utiliser l'appareil.	기기를 사용하기 전에 설명서를 주의 깊게 읽으세요.	Read the instructions carefully before using the device.
+v2818	B1-B2	La société	la compréhension	On parle souvent de la compréhension dans les médias.	Une bonne compréhension du problème est nécessaire avant de proposer une solution.	해결책을 제시하기 전에 문제를 제대로 이해하는 것이 필요하다.	A good understanding of the problem is necessary before proposing a solution.
+v2819	B1-B2	La société	la phrase	On parle souvent de la phrase dans les médias.	Peux-tu reformuler cette phrase pour qu'elle soit plus claire ?	이 문장을 더 명확하게 다시 표현해 줄 수 있어?	Can you rephrase this sentence so that it is clearer?
+v2820	B1-B2	La société	la production	On parle souvent de la production dans les médias.	La production a augmenté de dix pour cent cette année.	올해 생산량이 10퍼센트 증가했다.	Production increased by ten percent this year.
+v2823	B1-B2	La société	la rédaction	On parle souvent de la rédaction dans les médias.	La rédaction d'un CV clair demande du temps et de la précision.	명확한 이력서를 작성하려면 시간과 정확성이 필요하다.	Writing a clear résumé takes time and precision.
+v2824	B1-B2	La société	l'épreuve (f.)	On parle souvent de l'épreuve dans les médias.	L'épreuve écrite dure deux heures et comprend trois parties.	필기시험은 두 시간 동안 진행되며 세 부분으로 구성된다.	The written test lasts two hours and has three sections.
+v2825	B1-B2	La société	la note	On parle souvent de la note dans les médias.	J'ai obtenu une bonne note à l'examen final.	나는 기말시험에서 좋은 점수를 받았다.	I got a good grade on the final exam.
+v2827	B1-B2	La société	l'avis (m.)	On parle souvent de l'avis dans les médias.	À mon avis, cette solution est la plus réaliste.	내 생각에는 이 해결책이 가장 현실적이다.	In my opinion, this solution is the most realistic.
+v2835	B1-B2	La société	la relation	On parle souvent de la relation dans les médias.	Il entretient de bonnes relations avec ses collègues.	그는 동료들과 좋은 관계를 유지한다.	He maintains good relationships with his coworkers.
+v2836	B1-B2	La société	l'événement (m.)	On parle souvent de l'événement dans les médias.	L'événement aura lieu samedi prochain au centre-ville.	행사는 다음 주 토요일 도심에서 열린다.	The event will take place downtown next Saturday.
+v2841	B1-B2	La société	l'interaction (f.)	On parle souvent de l'interaction dans les médias.	Les interactions avec les clients font partie de son travail quotidien.	고객과의 상호작용은 그의 일상 업무의 일부다.	Interactions with customers are part of his daily work.
+v2846	B1-B2	La société	la fonction	On parle souvent de la fonction dans les médias.	Cette fonction permet de sauvegarder automatiquement les documents.	이 기능을 사용하면 문서를 자동으로 저장할 수 있다.	This function allows documents to be saved automatically.
+v2851	B1-B2	La société	la description	On parle souvent de la description dans les médias.	La description du poste précise les principales responsabilités.	직무 설명에는 주요 책임이 명시되어 있다.	The job description specifies the main responsibilities.
+v2855	B1-B2	La société	la motivation	On parle souvent de la motivation dans les médias.	La motivation joue un rôle important dans l'apprentissage d'une langue.	동기는 언어 학습에서 중요한 역할을 한다.	Motivation plays an important role in language learning.
+v2860	B1-B2	La société	la mode	On parle souvent de la mode dans les médias.	Cette couleur revient à la mode cette année.	이 색상은 올해 다시 유행하고 있다.	This color is coming back into fashion this year.
+v2861	B1-B2	La société	l'élément (m.)	On parle souvent de l'élément dans les médias.	Il manque un élément important dans le dossier.	서류에 중요한 요소 하나가 빠져 있다.	An important element is missing from the file.
+v2862	B1-B2	La société	la rubrique	On parle souvent de la rubrique dans les médias.	Consultez la rubrique « Emploi » pour voir les nouvelles offres.	새 채용 공고를 보려면 ‘취업’ 항목을 확인하세요.	Check the 'Jobs' section to see the new postings.
+v2863	B1-B2	La société	la partie	On parle souvent de la partie dans les médias.	La première partie du rapport présente les résultats de l'étude.	보고서의 첫 부분은 연구 결과를 제시한다.	The first part of the report presents the study results.

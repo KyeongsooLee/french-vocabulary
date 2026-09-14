@@ -1,0 +1,287 @@
+id	level	category	word	old_example	new_example	new_ko	new_en
+v0179	A1-A2	ADJECTIFS	joli / jolie	C'est joli.	Je trouve ce dessin joli et facile à comprendre.	나는 이 그림이 예쁘고 이해하기 쉽다고 생각한다.	I find this drawing pretty and easy to understand.
+v0180	A1-A2	ADJECTIFS	mignon / mignonne	C'est mignon.	Ce petit chien est vraiment mignon.	이 작은 강아지는 정말 귀엽다.	This little dog is really cute.
+v0182	A1-A2	ADJECTIFS	agréable	C'est agréable.	Ce quartier est agréable à vivre et assez calme.	이 동네는 살기 쾌적하고 꽤 조용하다.	This neighborhood is pleasant to live in and fairly quiet.
+v0183	A1-A2	ADJECTIFS	laid / laide	C'est laid.	Ce bâtiment est laid, mais l'intérieur est pratique.	이 건물은 못생겼지만 내부는 실용적이다.	This building is ugly, but the inside is practical.
+v0184	A1-A2	ADJECTIFS	moche	C'est moche.	Je trouve cette affiche un peu moche.	나는 이 포스터가 좀 못생겼다고 생각한다.	I think this poster is a bit ugly.
+v0185	A1-A2	ADJECTIFS	beau (bel) / belle	C'est beau.	Le paysage est beau au coucher du soleil.	해 질 무렵 풍경이 아름답다.	The scenery is beautiful at sunset.
+v0192	A1-A2	ADJECTIFS	bon / bonne	C'est bon.	Ce restaurant est bon et les portions sont généreuses.	이 식당은 맛도 좋고 양도 넉넉하다.	This restaurant is good and the portions are generous.
+v0193	A1-A2	ADJECTIFS	mauvais / mauvaise	C'est mauvais.	Le café est mauvais, alors je ne le finirai pas.	커피가 맛이 없어서 다 마시지 않을 것이다.	The coffee is bad, so I won't finish it.
+v0194	A1-A2	ADJECTIFS	sympa (sympathique)	C'est sympa.	Le nouveau collègue est sympa et facile à aborder.	새 동료는 친절하고 말 걸기 편하다.	The new coworker is nice and easy to approach.
+v0200	A1-A2	ADJECTIFS	neuf / neuve	C'est neuf.	J'ai acheté un ordinateur neuf, pas un modèle d'occasion.	나는 중고가 아니라 완전히 새 컴퓨터를 샀다.	I bought a brand-new computer, not a used one.
+v0201	A1-A2	ADJECTIFS	nouveau (nouvel) / nouvelle	C'est nouveau.	Nous testons un nouveau système cette semaine.	우리는 이번 주에 새로운 시스템을 시험하고 있다.	We are testing a new system this week.
+v0202	A1-A2	ADJECTIFS	ancien / ancienne	C'est ancien.	Cet ancien bâtiment a été transformé en hôtel.	이 오래된 건물은 호텔로 개조되었다.	This old building was converted into a hotel.
+v0203	A1-A2	ADJECTIFS	jeune	C'est jeune.	Il est encore jeune, mais il a déjà beaucoup d'expérience.	그는 아직 젊지만 이미 경험이 많다.	He is still young, but he already has a lot of experience.
+v0204	A1-A2	ADJECTIFS	vieux (vieil) / vieille	C'est vieux.	Ce téléphone est vieux, mais il fonctionne encore bien.	이 휴대폰은 오래됐지만 아직 잘 작동한다.	This phone is old, but it still works well.
+v0205	A1-A2	ADJECTIFS	âgé / âgée	C'est âgé.	Mon voisin est âgé et il marche avec une canne.	내 이웃은 연세가 많아서 지팡이를 짚고 걷는다.	My neighbor is elderly and walks with a cane.
+v0206	A1-A2	ADJECTIFS	grand / grande	C'est grand.	Notre appartement est assez grand pour quatre personnes.	우리 아파트는 네 명이 살기에 충분히 크다.	Our apartment is big enough for four people.
+v0207	A1-A2	ADJECTIFS	petit / petite	C'est petit.	La cuisine est petite, mais elle est bien organisée.	주방은 작지만 잘 정리되어 있다.	The kitchen is small, but it is well organized.
+v0208	A1-A2	ADJECTIFS	long / longue	C'est long.	Le trajet est long, surtout aux heures de pointe.	이동 시간이 길고 특히 출퇴근 시간에는 더 그렇다.	The trip is long, especially during rush hour.
+v0209	A1-A2	ADJECTIFS	court / courte	C'est court.	La réunion a été courte et efficace.	회의는 짧고 효율적이었다.	The meeting was short and efficient.
+v0210	A1-A2	ADJECTIFS	épais / épaisse	C'est épais.	Ce livre est trop épais pour que je le lise en une soirée.	이 책은 너무 두꺼워서 하룻밤에 읽기 어렵다.	This book is too thick to read in one evening.
+v0211	A1-A2	ADJECTIFS	gros / grosse	C'est gros.	Ce colis est trop gros pour entrer dans mon sac.	이 소포는 너무 커서 내 가방에 들어가지 않는다.	This package is too big to fit in my bag.
+v0212	A1-A2	ADJECTIFS	mince	C'est mince.	Cette étagère est assez mince, mais elle semble solide.	이 선반은 꽤 얇지만 튼튼해 보인다.	This shelf is fairly thin, but it seems sturdy.
+v0213	A1-A2	ADJECTIFS	dur / dure	C'est dur.	Ce matelas est trop dur pour moi.	이 매트리스는 나에게 너무 딱딱하다.	This mattress is too hard for me.
+v0214	A1-A2	ADJECTIFS	doux / douce	C'est doux.	Ce tissu est doux au toucher.	이 천은 만졌을 때 부드럽다.	This fabric feels soft.
+v0215	A1-A2	ADJECTIFS	sec / sèche	C'est sec.	Le sol est enfin sec, tu peux marcher dessus.	바닥이 이제 말랐으니 위를 걸어도 된다.	The floor is finally dry; you can walk on it.
+v0216	A1-A2	ADJECTIFS	mouillé / mouillée	C'est mouillé.	Le sol est mouillé, fais attention en marchant.	바닥이 젖어 있으니 걸을 때 조심해.	The floor is wet, so be careful when walking.
+v0217	A1-A2	ADJECTIFS	propre	C'est propre.	Le plan de travail doit rester propre pendant la préparation.	조리 중에는 작업대를 깨끗하게 유지해야 한다.	The work surface must stay clean during preparation.
+v0218	A1-A2	ADJECTIFS	sale	C'est sale.	Le sol est sale après le service.	서비스가 끝난 뒤 바닥이 더러워졌다.	The floor is dirty after service.
+v0219	A1-A2	ADJECTIFS	difficile	C'est difficile.	Il est difficile de trouver un logement abordable dans cette ville.	이 도시에서 저렴한 집을 구하기는 어렵다.	It is difficult to find affordable housing in this city.
+v0220	A1-A2	ADJECTIFS	facile	C'est facile.	Cette application est facile à utiliser, même au début.	이 앱은 처음에도 사용하기 쉽다.	This app is easy to use, even at first.
+v0221	A1-A2	ADJECTIFS	intéressant / intéressante	C'est intéressant.	Ce documentaire est intéressant parce qu'il montre plusieurs points de vue.	이 다큐멘터리는 여러 관점을 보여줘서 흥미롭다.	This documentary is interesting because it shows several points of view.
+v0222	A1-A2	ADJECTIFS	ennuyeux / ennuyeuse	C'est ennuyeux.	Le cours devient ennuyeux quand le professeur lit seulement ses notes.	교수가 노트만 읽으면 수업이 지루해진다.	The class becomes boring when the teacher only reads from the notes.
+v0229	A1-A2	ADJECTIFS	léger / légère	C'est léger.	Ce sac est assez léger pour être porté toute la journée.	이 가방은 하루 종일 들고 다녀도 될 만큼 가볍다.	This bag is light enough to carry all day.
+v0230	A1-A2	ADJECTIFS	lourd / lourde	C'est lourd.	Cette valise est trop lourde pour que je la porte seul.	이 여행가방은 너무 무거워서 혼자 들기 어렵다.	This suitcase is too heavy for me to carry alone.
+v0231	A1-A2	ADJECTIFS	possible	C'est possible.	Il est possible de modifier la réservation en ligne.	온라인으로 예약을 변경할 수 있다.	It is possible to change the reservation online.
+v0232	A1-A2	ADJECTIFS	impossible	C'est impossible.	Il est impossible de terminer ce travail en dix minutes.	이 일을 10분 안에 끝내는 것은 불가능하다.	It is impossible to finish this work in ten minutes.
+v0233	A1-A2	ADJECTIFS	plein / pleine	C'est plein.	Le bus est plein, attendons le suivant.	버스가 꽉 찼으니 다음 버스를 기다리자.	The bus is full; let's wait for the next one.
+v0234	A1-A2	ADJECTIFS	vide	C'est vide.	La salle est vide après la réunion.	회의가 끝난 뒤 회의실이 비어 있다.	The room is empty after the meeting.
+v0235	A1-A2	ADJECTIFS	fort / forte	C'est fort.	Le signal est assez fort près de la fenêtre.	창가에서는 신호가 꽤 강하다.	The signal is fairly strong near the window.
+v0236	A1-A2	ADJECTIFS	faible	C'est faible.	Le signal est faible dans le sous-sol.	지하에서는 신호가 약하다.	The signal is weak in the basement.
+v0237	A1-A2	ADJECTIFS	marrant / marrante	C'est marrant.	Ce film est marrant sans être complètement absurde.	이 영화는 완전히 황당하지 않으면서도 웃기다.	This movie is funny without being completely absurd.
+v0238	A1-A2	ADJECTIFS	drôle	C'est drôle.	Son histoire est drôle, tout le monde a ri.	그의 이야기가 재미있어서 모두가 웃었다.	His story is funny; everyone laughed.
+v0242	A1-A2	ADJECTIFS	bizarre	C'est bizarre.	C'est bizarre qu'il ne réponde toujours pas.	그가 아직도 답이 없는 것은 이상하다.	It's strange that he still hasn't replied.
+v0243	A1-A2	ADJECTIFS	bête	C'est bête.	C'était bête de partir sans vérifier l'adresse.	주소를 확인하지 않고 출발한 것은 어리석었다.	It was foolish to leave without checking the address.
+v0245	A1-A2	ADJECTIFS	même	C'est même.	Nous avons le même problème depuis hier.	우리는 어제부터 같은 문제를 겪고 있다.	We have had the same problem since yesterday.
+v0246	A1-A2	ADJECTIFS	pareil / pareille	C'est pareil.	Mon résultat est pareil au tien.	내 결과는 네 것과 같다.	My result is the same as yours.
+v0247	A1-A2	ADJECTIFS	différent / différente	C'est différent.	Le résultat est différent de ce que j'attendais.	결과는 내가 예상했던 것과 다르다.	The result is different from what I expected.
+v0248	A1-A2	ADJECTIFS	blanc / blanche	C'est blanc.	J'ai acheté un pull blanc pour l'hiver.	나는 겨울에 입을 흰 스웨터를 샀다.	I bought a white sweater for winter.
+v0249	A1-A2	ADJECTIFS	noir / noire	C'est noir.	Il porte un manteau noir au travail.	그는 출근할 때 검은 코트를 입는다.	He wears a black coat to work.
+v0250	A1-A2	ADJECTIFS	bleu / bleue	C'est bleu.	J'ai choisi un sac bleu pour le voyage.	나는 여행용으로 파란 가방을 골랐다.	I chose a blue bag for the trip.
+v0251	A1-A2	ADJECTIFS	jaune	C'est jaune.	Le panneau jaune est facile à voir de loin.	노란 표지판은 멀리서도 잘 보인다.	The yellow sign is easy to see from far away.
+v0252	A1-A2	ADJECTIFS	rouge	C'est rouge.	Appuie sur le bouton rouge en cas d'urgence.	비상시에는 빨간 버튼을 눌러.	Press the red button in an emergency.
+v0253	A1-A2	ADJECTIFS	vert / verte	C'est vert.	Le feu est vert, on peut traverser.	신호가 초록불이라 건널 수 있다.	The light is green, so we can cross.
+v0254	A1-A2	ADJECTIFS	rose	C'est rose.	Elle a choisi un téléphone rose.	그녀는 분홍색 휴대폰을 골랐다.	She chose a pink phone.
+v0255	A1-A2	ADJECTIFS	marron	C'est marron.	Je porte des chaussures marron avec ce pantalon.	나는 이 바지에 갈색 신발을 신는다.	I wear brown shoes with these pants.
+v0256	A1-A2	ADJECTIFS	gris / grise	C'est gris.	Le ciel est gris depuis ce matin.	오늘 아침부터 하늘이 회색빛이다.	The sky has been gray since this morning.
+v0257	A1-A2	ADJECTIFS	violet / violette	C'est violet.	Elle a peint un mur violet dans sa chambre.	그녀는 방 벽 하나를 보라색으로 칠했다.	She painted one wall in her room purple.
+v0278	A1-A2	ADVERBES	autre	C'est autre.	Je préfère une autre solution, plus simple à mettre en place.	나는 실행하기 더 쉬운 다른 해결책을 선호한다.	I prefer another solution that is easier to put in place.
+v0302	A1-A2	ADVERBES	brusque	C'est brusque.	Son changement de ton a été brusque.	그의 말투 변화는 갑작스러웠다.	His change in tone was abrupt.
+v0304	A1-A2	ADVERBES	général	C'est général.	En général, le magasin ferme à neuf heures.	일반적으로 그 가게는 9시에 문을 닫는다.	In general, the store closes at nine.
+v0306	A1-A2	ADVERBES	normal	C'est normal.	C'est normal d'être fatigué après une longue journée.	긴 하루를 보낸 뒤 피곤한 것은 정상이다.	It's normal to be tired after a long day.
+v0308	A1-A2	ADVERBES	usuel / usuelle	C'est usuel.	Cette expression est usuelle dans la langue parlée.	이 표현은 구어에서 흔히 쓰인다.	This expression is commonly used in spoken language.
+v0310	A1-A2	ADVERBES	naturel / naturelle	C'est naturel.	Au début, parler devant tout le monde ne me semblait pas naturel.	처음에는 사람들 앞에서 말하는 것이 자연스럽게 느껴지지 않았다.	At first, speaking in front of everyone did not feel natural to me.
+v0312	A1-A2	ADVERBES	actuel / actuelle	C'est actuel.	Le système actuel sera remplacé l'année prochaine.	현재 시스템은 내년에 교체될 예정이다.	The current system will be replaced next year.
+v0320	A1-A2	ADVERBES	vrai(e)	C'est vrai.	C'est vrai qu'il faut réserver à l'avance.	미리 예약해야 한다는 것은 사실이다.	It's true that you need to book in advance.
+v0322	A1-A2	ADVERBES	faux / fausse	C'est faux.	Cette information est fausse, vérifie la source.	이 정보는 틀렸으니 출처를 확인해.	This information is false; check the source.
+v0324	A1-A2	ADVERBES	tel / telle	C'est tel.	Je n'avais jamais vu un tel changement en si peu de temps.	나는 이렇게 짧은 시간에 그런 변화를 본 적이 없다.	I had never seen such a change in such a short time.
+v0327	A1-A2	ADVERBES	lent(e)	C'est lent.	Le service est lent ce soir parce qu'il manque du personnel.	오늘 저녁은 직원이 부족해서 서비스가 느리다.	Service is slow tonight because they are short-staffed.
+v0330	A1-A2	ADVERBES	formidable	C'est formidable.	Le concert était formidable, surtout la dernière chanson.	콘서트는 훌륭했고 특히 마지막 곡이 좋았다.	The concert was fantastic, especially the last song.
+v0332	A1-A2	ADVERBES	minable	C'est minable.	L'hôtel était minable malgré son prix élevé.	그 호텔은 가격이 비싼데도 형편없었다.	The hotel was awful despite its high price.
+v0335	A1-A2	ADVERBES	égal(e)	C'est égal.	Les deux équipes ont obtenu un score égal.	두 팀은 같은 점수를 얻었다.	The two teams got the same score.
+v0339	A1-A2	ADVERBES	immédiat(e)	C'est immédiat.	La réponse doit être immédiate en cas d'urgence.	비상 상황에서는 즉각적인 대응이 필요하다.	The response must be immediate in an emergency.
+v0341	A1-A2	ADVERBES	sérieux / sérieuse	C'est sérieux.	Le problème est sérieux, il faut agir rapidement.	문제가 심각하니 빨리 조치해야 한다.	The problem is serious; we need to act quickly.
+v0346	A1-A2	ADVERBES	patient(e)	C'est patient.	Il faut être patient quand on apprend une nouvelle langue.	새로운 언어를 배울 때는 인내심이 필요하다.	You need to be patient when learning a new language.
+v0352	A1-A2	ADVERBES	ample	C'est ample.	Ce pantalon est trop ample à la taille.	이 바지는 허리가 너무 헐렁하다.	These pants are too loose at the waist.
+v0355	A1-A2	ADVERBES	spécial(e)	C'est spécial.	Nous avons préparé un menu spécial pour les invités.	우리는 손님들을 위해 특별 메뉴를 준비했다.	We prepared a special menu for the guests.
+v0371	A1-A2	ADVERBES	(la) fois	C'est fois.	C'est la première fois que je viens dans ce restaurant.	나는 이 식당에 처음 와 본다.	This is the first time I've been to this restaurant.
+v0374	A1-A2	ADVERBES	(la) plupart	C'est plupart.	La plupart des clients paient par carte.	대부분의 손님은 카드로 결제한다.	Most customers pay by card.
+v0375	A1-A2	ADVERBES	la majorité	C'est la majorité.	La majorité des participants ont accepté la proposition.	참가자 대다수가 제안을 받아들였다.	The majority of participants accepted the proposal.
+v0376	A1-A2	ADVERBES	la minorité	C'est la minorité.	Une minorité des employés travaille encore à distance.	직원 중 소수는 여전히 원격으로 일한다.	A minority of employees still work remotely.
+v0405	A1-A2	OBJETS	nul / nulle	C'est nul.	Ce chargeur est nul, il fonctionne une fois sur deux.	이 충전기는 별로라서 제대로 작동하지 않을 때가 많다.	This charger is terrible; it only works half the time.
+v0407	A1-A2	OBJETS	sûr(e)	C'est sûr.	Je suis sûr d'avoir fermé la porte à clé.	나는 문을 잠갔다고 확신한다.	I'm sure I locked the door.
+v0409	A1-A2	OBJETS	bas / basse	C'est bas.	La table est trop basse pour cette chaise.	이 테이블은 이 의자에 비해 너무 낮다.	The table is too low for this chair.
+v0410	A1-A2	OBJETS	haut(e)	C'est haut.	L'étagère du haut est difficile à atteindre.	위쪽 선반은 손이 잘 닿지 않는다.	The top shelf is hard to reach.
+v0411	A1-A2	OBJETS	élevé	C'est élevé.	Le prix est trop élevé pour mon budget.	가격이 내 예산에 비해 너무 높다.	The price is too high for my budget.
+v0412	A1-A2	OBJETS	rapide	C'est rapide.	Le train est plus rapide que le bus à cette heure-ci.	이 시간에는 기차가 버스보다 빠르다.	The train is faster than the bus at this time.
+v0414	A1-A2	OBJETS	courant(e)	C'est courant.	Cette erreur est assez courante chez les débutants.	이 실수는 초보자에게 꽤 흔하다.	This mistake is fairly common among beginners.
+v0416	A1-A2	OBJETS	dur	C'est dur.	Ce pain est devenu dur après deux jours.	이 빵은 이틀이 지나 딱딱해졌다.	This bread became hard after two days.
+v0417	A1-A2	OBJETS	bruyant(e)	C'est bruyant.	Le restaurant est trop bruyant pour discuter tranquillement.	이 식당은 너무 시끄러워서 편하게 대화하기 어렵다.	The restaurant is too noisy for a quiet conversation.
+v0419	A1-A2	OBJETS	calme	C'est calme.	Le quartier est calme le soir.	이 동네는 저녁에 조용하다.	The neighborhood is quiet in the evening.
+v0421	A1-A2	OBJETS	exact(e)	C'est exact.	L'adresse indiquée sur le formulaire est exacte.	양식에 적힌 주소는 정확하다.	The address on the form is correct.
+v0423	A1-A2	OBJETS	juste	C'est juste.	Je trouve cette décision juste pour tout le monde.	나는 이 결정이 모두에게 공정하다고 생각한다.	I think this decision is fair to everyone.
+v0425	A1-A2	OBJETS	attentif / attentive	C'est attentif.	Sois attentif aux consignes de sécurité.	안전 지침을 주의 깊게 들어.	Pay close attention to the safety instructions.
+v0429	A1-A2	OBJETS	terrible	C'est terrible.	Le trajet a été terrible à cause de la tempête.	폭풍 때문에 이동이 정말 힘들었다.	The trip was terrible because of the storm.
+v0431	A1-A2	OBJETS	paresseux / paresseuse	C'est paresseux.	Il est paresseux et remet toujours le travail au lendemain.	그는 게을러서 늘 일을 다음 날로 미룬다.	He is lazy and always puts work off until the next day.
+v0434	A1-A2	OBJETS	vivant(e)	C'est vivant.	Le centre-ville est très vivant le vendredi soir.	도심은 금요일 저녁에 매우 활기차다.	Downtown is very lively on Friday evening.
+v0435	A1-A2	OBJETS	mort(e)	C'est mort.	La batterie est morte, il faut la recharger.	배터리가 방전돼서 충전해야 한다.	The battery is dead; it needs to be recharged.
+v0812	A1-A2	LES SPORTS	le sport	J'aime le sport.	Je fais du sport trois fois par semaine.	나는 일주일에 세 번 운동한다.	I exercise three times a week.
+v0813	A1-A2	LES SPORTS	le foot	J'aime le foot.	Je joue au foot avec mes collègues le week-end.	나는 주말에 동료들과 축구를 한다.	I play soccer with my coworkers on weekends.
+v0814	A1-A2	LES SPORTS	le baseball	J'aime le baseball.	On joue au baseball au parc quand il fait beau.	날씨가 좋으면 공원에서 야구를 한다.	We play baseball at the park when the weather is nice.
+v0815	A1-A2	LES SPORTS	le basket(-ball)	J'aime le basket.	Je joue au basket après le travail.	나는 퇴근 후에 농구를 한다.	I play basketball after work.
+v0816	A1-A2	LES SPORTS	le volley-ball	J'aime le volley-ball.	Nous jouons au volley-ball sur la plage en été.	우리는 여름에 해변에서 배구를 한다.	We play volleyball on the beach in summer.
+v0817	A1-A2	LES SPORTS	le golf	J'aime le golf.	Il joue au golf le dimanche matin.	그는 일요일 아침에 골프를 친다.	He plays golf on Sunday mornings.
+v0818	A1-A2	LES SPORTS	le tennis	J'aime le tennis.	Je joue au tennis deux fois par semaine.	나는 일주일에 두 번 테니스를 친다.	I play tennis twice a week.
+v0819	A1-A2	LES SPORTS	le ping-pong	J'aime le ping-pong.	On joue au ping-pong pendant la pause.	우리는 쉬는 시간에 탁구를 친다.	We play table tennis during the break.
+v0820	A1-A2	LES SPORTS	le badminton	J'aime le badminton.	Je joue au badminton avec un ami au gymnase.	나는 체육관에서 친구와 배드민턴을 친다.	I play badminton with a friend at the gym.
+v0821	A1-A2	LES SPORTS	le jogging	J'aime le jogging.	Je fais du jogging tôt le matin avant le travail.	나는 출근 전에 이른 아침에 조깅을 한다.	I go jogging early in the morning before work.
+v0822	A1-A2	LES SPORTS	la gymnastique	J'aime la gymnastique.	Elle fait de la gymnastique pour améliorer sa souplesse.	그녀는 유연성을 기르기 위해 체조를 한다.	She does gymnastics to improve her flexibility.
+v0823	A1-A2	LES SPORTS	la boxe	J'aime la boxe.	Il fait de la boxe deux soirs par semaine.	그는 일주일에 이틀 저녁 복싱을 한다.	He boxes two evenings a week.
+v0824	A1-A2	LES SPORTS	l'athlétisme (m.)	J'aime l'athlétisme.	L'athlétisme demande de la vitesse et de l'endurance.	육상은 속도와 지구력이 필요하다.	Athletics requires speed and endurance.
+v0825	A1-A2	LES SPORTS	le taekwondo	J'aime le taekwondo.	Elle fait du taekwondo depuis trois ans.	그녀는 3년째 태권도를 하고 있다.	She has been doing taekwondo for three years.
+v0826	A1-A2	LES SPORTS	le judo	J'aime le judo.	Mon fils fait du judo après l'école.	내 아들은 방과 후에 유도를 한다.	My son does judo after school.
+v0827	A1-A2	LES SPORTS	la natation	J'aime la natation.	Je fais de la natation pour renforcer mon dos.	나는 허리를 강화하기 위해 수영을 한다.	I swim to strengthen my back.
+v0828	A1-A2	LES SPORTS	l'équitation (f.)	J'aime l'équitation.	Elle fait de l'équitation chaque samedi.	그녀는 매주 토요일 승마를 한다.	She goes horseback riding every Saturday.
+v0829	A1-A2	LES SPORTS	la randonnée	J'aime la randonnée.	Nous faisons de la randonnée en montagne quand il fait frais.	우리는 날씨가 선선할 때 산에서 하이킹을 한다.	We go hiking in the mountains when the weather is cool.
+v0830	A1-A2	LES SPORTS	le ski	J'aime le ski.	Je fais du ski pendant mes vacances d'hiver.	나는 겨울 휴가 때 스키를 탄다.	I ski during my winter vacation.
+v0840	A1-A2	LES INSTRUMENTS DE MUSIQUE	la batterie	J'aime la batterie.	Je joue de la batterie dans un petit groupe.	나는 작은 밴드에서 드럼을 연주한다.	I play drums in a small band.
+v0852	A1-A2	VÊTEMENTS	le vêtement	J'aime le vêtement.	Je prépare mes vêtements la veille pour gagner du temps le matin.	나는 아침 시간을 아끼려고 전날 밤에 옷을 미리 준비한다.	I prepare my clothes the night before to save time in the morning.
+v0853	A1-A2	VÊTEMENTS	le pantalon	J'aime le pantalon.	Je porte un pantalon noir au travail.	나는 출근할 때 검은 바지를 입는다.	I wear black pants to work.
+v0854	A1-A2	VÊTEMENTS	le short	J'aime le short.	Je mets un short quand il fait très chaud.	나는 날씨가 아주 더울 때 반바지를 입는다.	I wear shorts when it is very hot.
+v0855	A1-A2	VÊTEMENTS	le jean	J'aime le jean.	Ce jean est confortable, même après une longue journée.	이 청바지는 하루 종일 입어도 편하다.	These jeans are comfortable even after a long day.
+v0856	A1-A2	VÊTEMENTS	la salopette	J'aime la salopette.	Elle porte une salopette pour travailler dans le jardin.	그녀는 정원에서 일할 때 멜빵바지를 입는다.	She wears overalls when working in the garden.
+v0857	A1-A2	VÊTEMENTS	la jupe	J'aime la jupe.	Elle a choisi une jupe noire pour l'entretien.	그녀는 면접을 위해 검은 치마를 골랐다.	She chose a black skirt for the interview.
+v0858	A1-A2	VÊTEMENTS	la robe	J'aime la robe.	Elle porte une robe simple pour le dîner.	그녀는 저녁 식사에 심플한 드레스를 입는다.	She wears a simple dress for dinner.
+v0859	A1-A2	VÊTEMENTS	le tee-shirt	J'aime le tee-shirt.	Je mets un tee-shirt propre après la séance de sport.	나는 운동 후에 깨끗한 티셔츠로 갈아입는다.	I put on a clean T-shirt after working out.
+v0860	A1-A2	VÊTEMENTS	la chemise	J'aime la chemise.	Je repasse ma chemise avant d'aller au travail.	나는 출근하기 전에 셔츠를 다린다.	I iron my shirt before going to work.
+v0861	A1-A2	VÊTEMENTS	le pull	J'aime le pull.	Je mets un pull quand la température baisse.	나는 기온이 내려가면 스웨터를 입는다.	I put on a sweater when the temperature drops.
+v0862	A1-A2	VÊTEMENTS	le gilet	J'aime le gilet.	Il porte un gilet par-dessus sa chemise.	그는 셔츠 위에 조끼를 입는다.	He wears a vest over his shirt.
+v0863	A1-A2	VÊTEMENTS	le manteau	J'aime le manteau.	N'oublie pas ton manteau, il fait froid dehors.	밖이 추우니 코트를 잊지 마.	Don't forget your coat; it's cold outside.
+v0864	A1-A2	VÊTEMENTS	le blouson	J'aime le blouson.	Je porte un blouson léger au printemps.	나는 봄에 가벼운 재킷을 입는다.	I wear a light jacket in spring.
+v0865	A1-A2	VÊTEMENTS	la veste	J'aime la veste.	Il a mis une veste pour la réunion.	그는 회의를 위해 재킷을 입었다.	He put on a jacket for the meeting.
+v0866	A1-A2	VÊTEMENTS	le costume	J'aime le costume.	Il porte un costume pour les occasions formelles.	그는 격식 있는 자리에서 정장을 입는다.	He wears a suit for formal occasions.
+v0867	A1-A2	VÊTEMENTS	le pyjama	J'aime le pyjama.	Je mets mon pyjama juste avant de me coucher.	나는 잠자리에 들기 직전에 파자마를 입는다.	I put on my pajamas just before going to bed.
+v0868	A1-A2	VÊTEMENTS	l'imperméable (m.)	J'aime l'imperméable.	Je prends un imperméable quand la météo annonce de la pluie.	나는 일기예보에 비 소식이 있으면 우비를 챙긴다.	I take a raincoat when the forecast calls for rain.
+v0869	A1-A2	VÊTEMENTS	le parapluie	J'aime le parapluie.	J'ai toujours un parapluie dans mon sac quand il risque de pleuvoir.	나는 비가 올 것 같으면 항상 가방에 우산을 넣어 둔다.	I always keep an umbrella in my bag when it might rain.
+v0870	A1-A2	VÊTEMENTS	le maillot (de bain)	J'aime le maillot de bain.	Je mets mon maillot de bain avant d'aller à la piscine.	나는 수영장에 가기 전에 수영복을 입는다.	I put on my swimsuit before going to the pool.
+v0871	A1-A2	LES ACCESSOIRES	les lunettes (f.)	J'aime les lunettes.	Je porte des lunettes pour lire les petits caractères.	나는 작은 글씨를 읽을 때 안경을 쓴다.	I wear glasses to read small print.
+v0872	A1-A2	LES ACCESSOIRES	les lunettes de plongée (f.)	J'aime les lunettes de plongée.	Je mets mes lunettes de plongée avant d'entrer dans l'eau.	나는 물에 들어가기 전에 다이빙 고글을 쓴다.	I put on my diving goggles before getting into the water.
+v0873	A1-A2	LES ACCESSOIRES	les lunettes de soleil (f.)	J'aime les lunettes de soleil.	Je porte des lunettes de soleil quand la lumière est trop forte.	나는 햇빛이 너무 강할 때 선글라스를 쓴다.	I wear sunglasses when the light is too strong.
+v0874	A1-A2	LES ACCESSOIRES	le chapeau	J'aime le chapeau.	Il met un chapeau pour se protéger du soleil.	그는 햇빛을 피하려고 모자를 쓴다.	He wears a hat to protect himself from the sun.
+v0875	A1-A2	LES ACCESSOIRES	la casquette	J'aime la casquette.	Je porte une casquette quand je vais courir dehors.	나는 밖에서 달릴 때 캡을 쓴다.	I wear a cap when I go running outside.
+v0876	A1-A2	LES ACCESSOIRES	le gant	J'aime le gant.	Je mets des gants avant de sortir quand il gèle.	나는 날씨가 영하일 때 외출하기 전에 장갑을 낀다.	I put on gloves before going out when it is freezing.
+v0877	A1-A2	LES ACCESSOIRES	l'écharpe (f.)	J'aime l'écharpe.	J'enroule une écharpe autour de mon cou quand il fait froid.	나는 추울 때 목에 목도리를 두른다.	I wrap a scarf around my neck when it is cold.
+v0878	A1-A2	LES ACCESSOIRES	la cravate	J'aime la cravate.	Il porte une cravate avec son costume pour la cérémonie.	그는 행사에서 정장과 함께 넥타이를 맨다.	He wears a tie with his suit for the ceremony.
+v0879	A1-A2	LES ACCESSOIRES	la ceinture	J'aime la ceinture.	Cette ceinture est trop large pour mon pantalon.	이 벨트는 내 바지에 너무 크다.	This belt is too large for my pants.
+v0880	A1-A2	LES ACCESSOIRES	les chaussettes (f.)	J'aime les chaussettes.	Je change de chaussettes après le sport.	나는 운동 후에 양말을 갈아 신는다.	I change my socks after exercising.
+v0881	A1-A2	LES ACCESSOIRES	les bas (m.)	J'aime les bas.	Elle porte des bas avec cette robe en hiver.	그녀는 겨울에 이 드레스와 스타킹을 신는다.	She wears stockings with this dress in winter.
+v0882	A1-A2	LES ACCESSOIRES	les collants	J'aime les collants.	Elle met des collants épais quand il fait froid.	그녀는 추울 때 두꺼운 타이츠를 입는다.	She wears thick tights when it is cold.
+v0883	A1-A2	LES ACCESSOIRES	les chaussures (f.)	J'aime les chaussures.	Ces chaussures sont assez confortables pour marcher toute la journée.	이 신발은 하루 종일 걸어도 충분히 편하다.	These shoes are comfortable enough to walk in all day.
+v0884	A1-A2	LES ACCESSOIRES	les baskets (f.)	J'aime les baskets.	Je mets des baskets pour aller à la salle de sport.	나는 헬스장에 갈 때 운동화를 신는다.	I wear sneakers to go to the gym.
+v0885	A1-A2	LES ACCESSOIRES	les sandales (f.)	J'aime les sandales.	Je porte des sandales quand il fait chaud.	나는 날씨가 더울 때 샌들을 신는다.	I wear sandals when it is hot.
+v0886	A1-A2	LES ACCESSOIRES	les bottes (f.)	J'aime les bottes.	Je mets des bottes quand il neige beaucoup.	나는 눈이 많이 올 때 부츠를 신는다.	I wear boots when it snows a lot.
+v0887	A1-A2	LES ACCESSOIRES	le linge	J'aime le linge.	Je plie le linge propre avant de le ranger.	나는 깨끗한 빨래를 개서 정리한다.	I fold the clean laundry before putting it away.
+v0888	A1-A2	LES ACCESSOIRES	le slip	J'aime le slip.	Je mets un slip propre après la douche.	나는 샤워 후에 깨끗한 속옷으로 갈아입는다.	I put on clean underwear after showering.
+v0889	A1-A2	LES ACCESSOIRES	la culotte	J'aime la culotte.	Elle range ses culottes dans le tiroir du bas.	그녀는 여성 속옷을 아래쪽 서랍에 정리한다.	She keeps her underwear in the bottom drawer.
+v0890	A1-A2	LES ACCESSOIRES	la montre	J'aime la montre.	Je regarde ma montre pour vérifier l'heure.	나는 시간을 확인하려고 손목시계를 본다.	I look at my watch to check the time.
+v0891	A1-A2	LES ACCESSOIRES	le bijou	J'aime le bijou.	Elle garde ses bijoux dans une petite boîte.	그녀는 보석을 작은 상자에 보관한다.	She keeps her jewelry in a small box.
+v0892	A1-A2	LES ACCESSOIRES	le collier	J'aime le collier.	Elle porte un collier discret avec cette robe.	그녀는 이 드레스에 심플한 목걸이를 착용한다.	She wears a simple necklace with this dress.
+v0893	A1-A2	LES ACCESSOIRES	la bague	J'aime la bague.	Il a retiré sa bague avant de cuisiner.	그는 요리하기 전에 반지를 뺐다.	He took off his ring before cooking.
+v0894	A1-A2	LES ACCESSOIRES	la boucle d'oreille	J'aime la boucle d'oreille.	Elle a perdu une boucle d'oreille dans le métro.	그녀는 지하철에서 귀걸이 한 짝을 잃어버렸다.	She lost an earring on the subway.
+v0895	A1-A2	LES ACCESSOIRES	le bracelet	J'aime le bracelet.	Ce bracelet est trop serré à mon poignet.	이 팔찌는 내 손목에 너무 꽉 낀다.	This bracelet is too tight on my wrist.
+v0896	A1-A2	LES ACCESSOIRES	le sac	J'aime le sac.	Je mets mon portefeuille et mes clés dans mon sac.	나는 지갑과 열쇠를 가방에 넣는다.	I put my wallet and keys in my bag.
+v0897	A1-A2	LES ACCESSOIRES	le sac à dos	J'aime le sac à dos.	Je prends un sac à dos pour les longues randonnées.	나는 긴 하이킹을 갈 때 배낭을 챙긴다.	I take a backpack for long hikes.
+v0898	A1-A2	LES ACCESSOIRES	la poche	J'aime la poche.	J'ai mis mes clés dans la poche de ma veste.	나는 재킷 주머니에 열쇠를 넣었다.	I put my keys in my jacket pocket.
+v0899	A1-A2	LES ACCESSOIRES	le mouchoir	J'aime le mouchoir.	J'ai toujours un mouchoir dans ma poche.	나는 항상 주머니에 손수건을 넣어 다닌다.	I always keep a handkerchief in my pocket.
+v0900	A1-A2	LES ACCESSOIRES	les affaires (f.)	J'aime les affaires.	N'oublie pas tes affaires avant de quitter la chambre.	방을 나가기 전에 개인 소지품을 잊지 마.	Don't forget your belongings before leaving the room.
+v0901	A1-A2	LES ACCESSOIRES	le portefeuille	J'aime le portefeuille.	Je garde mes cartes et un peu d'argent dans mon portefeuille.	나는 카드와 약간의 현금을 지갑에 넣어 다닌다.	I keep my cards and some cash in my wallet.
+v1100	A1-A2	LA NOURRITURE ET LES REPAS	la nourriture	J'aime la nourriture.	Je prépare la nourriture pour demain afin de gagner du temps.	나는 시간을 아끼려고 내일 먹을 음식을 미리 준비한다.	I prepare food for tomorrow to save time.
+v1101	A1-A2	LA NOURRITURE ET LES REPAS	l'aliment (m.)	J'aime l'aliment.	Je vérifie toujours la liste des ingrédients sur les aliments emballés.	나는 포장 식품의 원재료 목록을 항상 확인한다.	I always check the ingredient list on packaged foods.
+v1102	A1-A2	LA NOURRITURE ET LES REPAS	le repas	J'aime le repas.	Je prends mes repas à des heures assez régulières.	나는 비교적 규칙적인 시간에 식사한다.	I eat my meals at fairly regular times.
+v1103	A1-A2	LA NOURRITURE ET LES REPAS	le petit déjeuner	J'aime le petit déjeuner.	Je prends un petit déjeuner léger avant de partir travailler.	나는 출근하기 전에 가볍게 아침을 먹는다.	I have a light breakfast before leaving for work.
+v1104	A1-A2	LA NOURRITURE ET LES REPAS	le déjeuner	J'aime le déjeuner.	Je déjeune vers midi quand je travaille.	나는 일할 때 보통 정오쯤 점심을 먹는다.	I have lunch around noon when I work.
+v1105	A1-A2	LA NOURRITURE ET LES REPAS	le dîner	J'aime le dîner.	Nous dînons ensemble après le travail.	우리는 퇴근 후에 함께 저녁을 먹는다.	We have dinner together after work.
+v1106	A1-A2	LA NOURRITURE ET LES REPAS	le fruit	J'aime le fruit.	Je mange un fruit quand j'ai faim entre les repas.	나는 식사 사이에 배가 고프면 과일을 먹는다.	I eat a piece of fruit when I get hungry between meals.
+v1107	A1-A2	LA NOURRITURE ET LES REPAS	la pomme	J'aime la pomme.	Je coupe une pomme en tranches pour le goûter.	나는 간식으로 먹으려고 사과를 얇게 썬다.	I slice an apple for a snack.
+v1108	A1-A2	LA NOURRITURE ET LES REPAS	la poire	J'aime la poire.	Je mets une poire dans mon sac pour plus tard.	나는 나중에 먹으려고 배 하나를 가방에 넣는다.	I put a pear in my bag for later.
+v1109	A1-A2	LA NOURRITURE ET LES REPAS	la pêche	J'aime la pêche.	Cette pêche est mûre, alors je la mange aujourd'hui.	이 복숭아는 잘 익어서 오늘 먹는다.	This peach is ripe, so I'm eating it today.
+v1110	A1-A2	LA NOURRITURE ET LES REPAS	l'abricot (m.)	J'aime l'abricot.	Je coupe un abricot en deux pour retirer le noyau.	나는 씨를 빼려고 살구를 반으로 자른다.	I cut an apricot in half to remove the pit.
+v1111	A1-A2	LA NOURRITURE ET LES REPAS	la cerise	J'aime la cerise.	Je retire les noyaux des cerises avant de faire un dessert.	나는 디저트를 만들기 전에 체리 씨를 뺀다.	I remove the pits from the cherries before making a dessert.
+v1112	A1-A2	LA NOURRITURE ET LES REPAS	la fraise	J'aime la fraise.	J'ajoute des fraises à mon yaourt le matin.	나는 아침에 요구르트에 딸기를 넣는다.	I add strawberries to my yogurt in the morning.
+v1113	A1-A2	LA NOURRITURE ET LES REPAS	la myrtille	J'aime la myrtille.	Je mets des myrtilles dans mes céréales.	나는 시리얼에 블루베리를 넣는다.	I put blueberries in my cereal.
+v1114	A1-A2	LA NOURRITURE ET LES REPAS	la framboise	J'aime la framboise.	Les framboises s'écrasent facilement, alors je les range avec soin.	라즈베리는 쉽게 으깨져서 조심해서 보관한다.	Raspberries crush easily, so I store them carefully.
+v1115	A1-A2	LA NOURRITURE ET LES REPAS	le kiwi	J'aime le kiwi.	Je coupe un kiwi en deux et je le mange à la cuillère.	나는 키위를 반으로 잘라 숟가락으로 먹는다.	I cut a kiwi in half and eat it with a spoon.
+v1116	A1-A2	LA NOURRITURE ET LES REPAS	le melon	J'aime le melon.	Je garde le melon au réfrigérateur avant de le servir.	나는 멜론을 내기 전에 냉장고에 보관한다.	I keep the melon in the refrigerator before serving it.
+v1117	A1-A2	LA NOURRITURE ET LES REPAS	la pastèque	J'aime la pastèque.	On coupe la pastèque en grandes tranches pour la partager.	우리는 수박을 나눠 먹으려고 크게 썬다.	We cut the watermelon into large slices to share it.
+v1118	A1-A2	LA NOURRITURE ET LES REPAS	la banane	J'aime la banane.	Je mange une banane avant d'aller courir.	나는 달리러 가기 전에 바나나를 먹는다.	I eat a banana before going for a run.
+v1119	A1-A2	LA NOURRITURE ET LES REPAS	l'orange (f.)	J'aime l'orange.	Je pèle une orange après le déjeuner.	나는 점심 후에 오렌지 껍질을 벗겨 먹는다.	I peel an orange after lunch.
+v1120	A1-A2	LA NOURRITURE ET LES REPAS	la mandarine	J'aime la mandarine.	Je prends une mandarine comme collation au travail.	나는 직장에서 간식으로 귤을 먹는다.	I have a mandarin orange as a snack at work.
+v1121	A1-A2	LA NOURRITURE ET LES REPAS	le pamplemousse	J'aime le pamplemousse.	Je coupe le pamplemousse en deux pour le petit déjeuner.	나는 아침 식사로 먹으려고 자몽을 반으로 자른다.	I cut the grapefruit in half for breakfast.
+v1122	A1-A2	LA NOURRITURE ET LES REPAS	le citron	J'aime le citron.	Je presse un citron dans l'eau pour ajouter un peu d'acidité.	나는 물에 약간의 신맛을 더하려고 레몬을 짜 넣는다.	I squeeze a lemon into water to add a little acidity.
+v1123	A1-A2	LA NOURRITURE ET LES REPAS	le citron vert	J'aime le citron vert.	Je presse un citron vert sur le poisson avant de le servir.	나는 생선을 내기 전에 라임을 짜서 뿌린다.	I squeeze a lime over the fish before serving it.
+v1124	A1-A2	LA NOURRITURE ET LES REPAS	l'ananas (m.)	J'aime l'ananas.	Je coupe l'ananas en morceaux après avoir retiré la peau.	나는 껍질을 벗긴 뒤 파인애플을 조각으로 자른다.	I cut the pineapple into pieces after removing the skin.
+v1125	A1-A2	LA NOURRITURE ET LES REPAS	le raisin	J'aime le raisin.	Je lave le raisin avant de le mettre sur la table.	나는 포도를 식탁에 놓기 전에 씻는다.	I wash the grapes before putting them on the table.
+v1126	A1-A2	LA NOURRITURE ET LES REPAS	le raisin blanc	J'aime le raisin blanc.	Je garde le raisin blanc au frais pour qu'il reste croquant.	나는 청포도가 아삭하게 유지되도록 차갑게 보관한다.	I keep the green grapes chilled so they stay crisp.
+v1127	A1-A2	LA NOURRITURE ET LES REPAS	la mangue	J'aime la mangue.	Je coupe une mangue en dés pour la salade de fruits.	나는 과일 샐러드에 넣으려고 망고를 깍둑썰기한다.	I dice a mango for the fruit salad.
+v1128	A1-A2	LA NOURRITURE ET LES REPAS	la figue	J'aime la figue.	Je coupe une figue en deux et je la sers avec du fromage.	나는 무화과를 반으로 잘라 치즈와 함께 낸다.	I cut a fig in half and serve it with cheese.
+v1129	A1-A2	LA NOURRITURE ET LES REPAS	le légume	J'aime le légume.	Je prépare des légumes rôtis pour accompagner le dîner.	나는 저녁 식사 곁들임으로 구운 채소를 준비한다.	I prepare roasted vegetables to go with dinner.
+v1130	A1-A2	LA NOURRITURE ET LES REPAS	la salade	J'aime la salade.	Je prépare une salade avec des légumes frais.	나는 신선한 채소로 샐러드를 만든다.	I make a salad with fresh vegetables.
+v1131	A1-A2	LA NOURRITURE ET LES REPAS	la tomate	J'aime la tomate.	Je coupe une tomate en rondelles pour le sandwich.	나는 샌드위치에 넣으려고 토마토를 얇게 썬다.	I slice a tomato for the sandwich.
+v1132	A1-A2	LA NOURRITURE ET LES REPAS	la carotte	J'aime la carotte.	Je râpe une carotte dans la salade.	나는 샐러드에 당근을 갈아 넣는다.	I grate a carrot into the salad.
+v1133	A1-A2	LA NOURRITURE ET LES REPAS	l'oignon (m.)	J'aime l'oignon.	Je fais revenir un oignon avant d'ajouter les autres ingrédients.	나는 다른 재료를 넣기 전에 양파를 볶는다.	I sauté an onion before adding the other ingredients.
+v1134	A1-A2	LA NOURRITURE ET LES REPAS	le champignon	J'aime le champignon.	Je fais revenir les champignons avec un peu de beurre.	나는 버터를 조금 넣고 버섯을 볶는다.	I sauté the mushrooms with a little butter.
+v1135	A1-A2	LA NOURRITURE ET LES REPAS	le concombre	J'aime le concombre.	Je coupe un concombre en fines rondelles pour la salade.	나는 샐러드에 넣으려고 오이를 얇게 썬다.	I slice a cucumber thinly for the salad.
+v1136	A1-A2	LA NOURRITURE ET LES REPAS	l'aubergine (f.)	J'aime l'aubergine.	Je fais griller une aubergine avec un peu d'huile d'olive.	나는 올리브유를 조금 두르고 가지를 굽는다.	I grill an eggplant with a little olive oil.
+v1137	A1-A2	LA NOURRITURE ET LES REPAS	la courgette	J'aime la courgette.	Je coupe une courgette en dés avant de la faire sauter.	나는 애호박을 볶기 전에 깍둑썰기한다.	I dice a zucchini before sautéing it.
+v1138	A1-A2	LA NOURRITURE ET LES REPAS	la citrouille	J'aime la citrouille.	Je fais une soupe avec de la citrouille et des épices.	나는 호박과 향신료로 수프를 만든다.	I make soup with pumpkin and spices.
+v1139	A1-A2	LA NOURRITURE ET LES REPAS	la ciboule	J'aime la ciboule.	J'ajoute de la ciboule juste avant de servir.	나는 내기 직전에 쪽파를 넣는다.	I add green onion just before serving.
+v1140	A1-A2	LA NOURRITURE ET LES REPAS	le poireau	J'aime le poireau.	Je lave soigneusement le poireau avant de le couper.	나는 리크를 자르기 전에 꼼꼼히 씻는다.	I wash the leek carefully before cutting it.
+v1141	A1-A2	LA NOURRITURE ET LES REPAS	la pomme de terre	J'aime la pomme de terre.	Je fais cuire les pommes de terre jusqu'à ce qu'elles soient tendres.	나는 감자가 부드러워질 때까지 익힌다.	I cook the potatoes until they are tender.
+v1142	A1-A2	LA NOURRITURE ET LES REPAS	la patate douce	J'aime la patate douce.	Je fais rôtir une patate douce au four.	나는 고구마를 오븐에 굽는다.	I roast a sweet potato in the oven.
+v1143	A1-A2	LA NOURRITURE ET LES REPAS	le poivron	J'aime le poivron.	Je coupe un poivron en lanières pour le faire sauter.	나는 볶으려고 피망을 길게 썬다.	I cut a bell pepper into strips for stir-frying.
+v1144	A1-A2	LA NOURRITURE ET LES REPAS	le brocoli	J'aime le brocoli.	Je fais cuire le brocoli à la vapeur pour qu'il reste croquant.	나는 브로콜리가 아삭하게 남도록 찐다.	I steam the broccoli so it stays crisp.
+v1145	A1-A2	LA NOURRITURE ET LES REPAS	le chou-fleur	J'aime le chou-fleur.	Je coupe le chou-fleur en petits bouquets avant de le rôtir.	나는 콜리플라워를 굽기 전에 작은 송이로 나눈다.	I cut the cauliflower into small florets before roasting it.
+v1146	A1-A2	LA NOURRITURE ET LES REPAS	l'ail (m.)	J'aime l'ail.	J'écrase une gousse d'ail pour l'ajouter à la sauce.	나는 소스에 넣으려고 마늘 한 쪽을 으깬다.	I crush a clove of garlic to add to the sauce.
+v1147	A1-A2	LA NOURRITURE ET LES REPAS	le gingembre	J'aime le gingembre.	Je râpe un peu de gingembre dans la marinade.	나는 마리네이드에 생강을 조금 갈아 넣는다.	I grate a little ginger into the marinade.
+v1148	A1-A2	LA NOURRITURE ET LES REPAS	l'épinard (m.)	J'aime l'épinard.	J'ajoute des épinards à la poêle à la fin de la cuisson.	나는 조리 마지막에 팬에 시금치를 넣는다.	I add spinach to the pan at the end of cooking.
+v1149	A1-A2	LA NOURRITURE ET LES REPAS	le chou	J'aime le chou.	Je coupe le chou finement pour faire une salade.	나는 샐러드를 만들려고 양배추를 얇게 채 썬다.	I slice the cabbage thinly to make a salad.
+v1150	A1-A2	LA NOURRITURE ET LES REPAS	la laitue	J'aime la laitue.	Je lave la laitue et je l'essore avant de faire la salade.	나는 샐러드를 만들기 전에 상추를 씻고 물기를 뺀다.	I wash and dry the lettuce before making the salad.
+v1151	A1-A2	LA NOURRITURE ET LES REPAS	le haricot	J'aime le haricot.	J'ajoute des haricots à la soupe pour la rendre plus consistante.	나는 수프를 더 든든하게 하려고 콩을 넣는다.	I add beans to the soup to make it more filling.
+v1152	A1-A2	LA NOURRITURE ET LES REPAS	le pois	J'aime le pois.	J'ajoute des pois au riz quelques minutes avant la fin de la cuisson.	나는 밥이 다 되기 몇 분 전에 완두콩을 넣는다.	I add peas to the rice a few minutes before it finishes cooking.
+v1153	A1-A2	LA NOURRITURE ET LES REPAS	le basilic	J'aime le basilic.	J'ajoute du basilic frais juste avant de servir les pâtes.	나는 파스타를 내기 직전에 신선한 바질을 넣는다.	I add fresh basil just before serving the pasta.
+v1154	A1-A2	LA NOURRITURE ET LES REPAS	la viande	J'aime la viande.	Je fais mariner la viande avant de la griller.	나는 고기를 굽기 전에 양념에 재운다.	I marinate the meat before grilling it.
+v1155	A1-A2	LA NOURRITURE ET LES REPAS	le bœuf	J'aime le bœuf.	Je fais cuire le bœuf à feu vif pour le saisir.	나는 소고기 겉면을 익히려고 센 불에 굽는다.	I cook the beef over high heat to sear it.
+v1156	A1-A2	LA NOURRITURE ET LES REPAS	le porc	J'aime le porc.	Je fais cuire le porc complètement avant de le servir.	나는 돼지고기를 내기 전에 완전히 익힌다.	I cook the pork thoroughly before serving it.
+v1157	A1-A2	LA NOURRITURE ET LES REPAS	l'agneau (m.)	J'aime l'agneau.	L'agneau se marie bien avec le romarin et l'ail.	양고기는 로즈마리와 마늘이 잘 어울린다.	Lamb goes well with rosemary and garlic.
+v1158	A1-A2	LA NOURRITURE ET LES REPAS	le mouton	J'aime le mouton.	On cuisine souvent le mouton à feu doux pendant longtemps.	양고기는 보통 약한 불에서 오래 익힌다.	Mutton is often cooked slowly over low heat.
+v1159	A1-A2	LA NOURRITURE ET LES REPAS	le poulet	J'aime le poulet.	Je coupe le poulet en morceaux avant de le faire sauter.	나는 닭고기를 볶기 전에 먹기 좋은 크기로 자른다.	I cut the chicken into pieces before stir-frying it.
+v1160	A1-A2	LA NOURRITURE ET LES REPAS	la dinde	J'aime la dinde.	La dinde doit reposer quelques minutes après la cuisson.	칠면조는 조리 후 몇 분간 휴지시키는 것이 좋다.	Turkey should rest for a few minutes after cooking.
+v1161	A1-A2	LA NOURRITURE ET LES REPAS	le canard	J'aime le canard.	Le canard est souvent servi avec une sauce légèrement sucrée.	오리고기는 약간 단맛이 나는 소스와 자주 함께 낸다.	Duck is often served with a slightly sweet sauce.
+v1162	A1-A2	LA NOURRITURE ET LES REPAS	le jambon	J'aime le jambon.	J'ajoute du jambon au sandwich pour le rendre plus consistant.	나는 샌드위치를 더 든든하게 하려고 햄을 넣는다.	I add ham to the sandwich to make it more filling.
+v1163	A1-A2	LA NOURRITURE ET LES REPAS	la saucisse	J'aime la saucisse.	Je fais dorer les saucisses à la poêle avant de les servir.	나는 소시지를 내기 전에 팬에서 노릇하게 굽는다.	I brown the sausages in a pan before serving them.
+v1164	A1-A2	LA NOURRITURE ET LES REPAS	le steak	J'aime le steak.	Je laisse le steak reposer avant de le couper.	나는 스테이크를 자르기 전에 잠시 휴지시킨다.	I let the steak rest before cutting it.
+v1165	A1-A2	LA NOURRITURE ET LES REPAS	le fromage	J'aime le fromage.	Je sors le fromage du réfrigérateur un peu avant de le servir.	나는 치즈를 내기 조금 전에 냉장고에서 꺼낸다.	I take the cheese out of the refrigerator shortly before serving it.
+v1166	A1-A2	LA NOURRITURE ET LES REPAS	le beurre	J'aime le beurre.	Je fais fondre un peu de beurre dans la poêle.	나는 팬에 버터를 조금 녹인다.	I melt a little butter in the pan.
+v1167	A1-A2	LA NOURRITURE ET LES REPAS	le pain	J'aime le pain.	Je coupe le pain juste avant de passer à table.	나는 식탁에 앉기 직전에 빵을 자른다.	I slice the bread just before we sit down to eat.
+v1168	A1-A2	LA NOURRITURE ET LES REPAS	le croissant	J'aime le croissant.	Je prends un croissant avec mon café le matin.	나는 아침에 커피와 함께 크루아상을 먹는다.	I have a croissant with my coffee in the morning.
+v1169	A1-A2	LA NOURRITURE ET LES REPAS	la baguette	J'aime la baguette.	J'achète une baguette fraîche à la boulangerie.	나는 빵집에서 갓 구운 바게트를 산다.	I buy a fresh baguette at the bakery.
+v1170	A1-A2	LA NOURRITURE ET LES REPAS	le sandwich	J'aime le sandwich.	Je prépare un sandwich pour le déjeuner de demain.	나는 내일 점심으로 먹을 샌드위치를 준비한다.	I make a sandwich for tomorrow's lunch.
+v1171	A1-A2	LA NOURRITURE ET LES REPAS	la pizza	J'aime la pizza.	On partage une pizza quand on n'a pas envie de cuisiner.	우리는 요리하기 싫을 때 피자를 나눠 먹는다.	We share a pizza when we don't feel like cooking.
+v1172	A1-A2	LA NOURRITURE ET LES REPAS	le hamburger	J'aime le hamburger.	Je commande un hamburger sans oignons.	나는 양파를 빼고 햄버거를 주문한다.	I order a hamburger without onions.
+v1173	A1-A2	LA NOURRITURE ET LES REPAS	la frite	J'aime la frite.	Les frites deviennent molles si elles restent trop longtemps dans la boîte.	감자튀김은 상자에 너무 오래 있으면 눅눅해진다.	Fries get soggy if they stay in the box too long.
+v1174	A1-A2	LA NOURRITURE ET LES REPAS	la tarte	J'aime la tarte.	Je sers une tarte aux pommes encore tiède.	나는 아직 따뜻한 사과파이를 내놓는다.	I serve an apple pie while it is still warm.
+v1175	A1-A2	LA NOURRITURE ET LES REPAS	le gâteau	J'aime le gâteau.	On coupe le gâteau après avoir soufflé les bougies.	우리는 촛불을 끈 뒤 케이크를 자른다.	We cut the cake after blowing out the candles.
+v1176	A1-A2	LA NOURRITURE ET LES REPAS	le chocolat	J'aime le chocolat.	Je garde le chocolat dans un endroit frais et sec.	나는 초콜릿을 서늘하고 건조한 곳에 보관한다.	I keep chocolate in a cool, dry place.
+v1177	A1-A2	LA NOURRITURE ET LES REPAS	le bonbon	J'aime le bonbon.	L'enfant prend un bonbon après le repas.	아이는 식사 후에 사탕 하나를 먹는다.	The child has a piece of candy after the meal.
+v1178	A1-A2	LA NOURRITURE ET LES REPAS	la glace	J'aime la glace.	La glace fond vite quand il fait chaud.	아이스크림은 날씨가 더우면 빨리 녹는다.	Ice cream melts quickly when it is hot.
+v1179	A1-A2	LA NOURRITURE ET LES REPAS	le dessert	J'aime le dessert.	Je garde un peu de place pour le dessert.	나는 디저트를 먹으려고 배를 조금 남겨 둔다.	I save a little room for dessert.
+v1180	A1-A2	LA NOURRITURE ET LES REPAS	la confiture	J'aime la confiture.	J'étale de la confiture sur une tranche de pain.	나는 빵 한 조각에 잼을 바른다.	I spread jam on a slice of bread.
+v1181	A1-A2	LA NOURRITURE ET LES REPAS	la mayonnaise	J'aime la mayonnaise.	J'ajoute un peu de mayonnaise dans le sandwich.	나는 샌드위치에 마요네즈를 조금 넣는다.	I add a little mayonnaise to the sandwich.
+v1182	A1-A2	LA NOURRITURE ET LES REPAS	le ketchup	J'aime le ketchup.	Il met trop de ketchup sur ses frites.	그는 감자튀김에 케첩을 너무 많이 뿌린다.	He puts too much ketchup on his fries.
+v1183	A1-A2	LA NOURRITURE ET LES REPAS	le riz	J'aime le riz.	Je rince le riz avant de le faire cuire.	나는 쌀을 익히기 전에 씻는다.	I rinse the rice before cooking it.
+v1184	A1-A2	LA NOURRITURE ET LES REPAS	la soupe	J'aime la soupe.	Je réchauffe la soupe à feu doux.	나는 수프를 약한 불에서 데운다.	I reheat the soup over low heat.
+v1185	A1-A2	LA NOURRITURE ET LES REPAS	l'œuf (m.)	J'aime l'œuf.	Je casse un œuf dans la poêle.	나는 팬에 계란 하나를 깬다.	I crack an egg into the pan.
+v1186	A1-A2	LA NOURRITURE ET LES REPAS	l'œuf sur le plat (m.)	J'aime l'œuf sur le plat.	Je fais cuire un œuf sur le plat pour le petit déjeuner.	나는 아침 식사로 계란후라이를 만든다.	I fry an egg sunny-side up for breakfast.
+v1187	A1-A2	LA NOURRITURE ET LES REPAS	les fruits de mer (m.)	J'aime les fruits de mer.	Je vérifie les allergies avant de servir des fruits de mer.	나는 해산물을 내기 전에 알레르기 여부를 확인한다.	I check for allergies before serving seafood.
+v1188	A1-A2	LA NOURRITURE ET LES REPAS	le poisson	J'aime le poisson.	Je fais cuire le poisson jusqu'à ce qu'il se défasse facilement.	나는 생선살이 쉽게 부서질 때까지 익힌다.	I cook the fish until it flakes easily.
+v1189	A1-A2	LA NOURRITURE ET LES REPAS	le thon	J'aime le thon.	J'ajoute du thon à la salade pour avoir plus de protéines.	나는 단백질을 더 보충하려고 샐러드에 참치를 넣는다.	I add tuna to the salad for extra protein.
+v1190	A1-A2	LA NOURRITURE ET LES REPAS	le saumon	J'aime le saumon.	Je fais cuire le saumon côté peau en premier.	나는 연어를 껍질 쪽부터 먼저 익힌다.	I cook the salmon skin-side down first.
+v1191	A1-A2	LA NOURRITURE ET LES REPAS	le maquereau	J'aime le maquereau.	Le maquereau a une saveur assez prononcée.	고등어는 맛이 꽤 진한 편이다.	Mackerel has a fairly strong flavor.
+v1192	A1-A2	LA NOURRITURE ET LES REPAS	la morue	J'aime la morue.	Je dessale la morue avant de la cuisiner.	나는 대구를 요리하기 전에 소금기를 뺀다.	I soak the cod to remove excess salt before cooking it.
+v1193	A1-A2	LA NOURRITURE ET LES REPAS	l'huître (f.)	J'aime l'huître.	On sert les huîtres bien froides avec du citron.	굴은 레몬과 함께 차갑게 내놓는다.	Oysters are served well chilled with lemon.
+v1194	A1-A2	LA NOURRITURE ET LES REPAS	la moule	J'aime la moule.	Je jette les moules qui restent fermées après la cuisson.	나는 익힌 뒤에도 입이 닫힌 홍합은 버린다.	I discard mussels that stay closed after cooking.
+v1195	A1-A2	LA NOURRITURE ET LES REPAS	le coquillage	J'aime le coquillage.	Je rince les coquillages plusieurs fois avant de les cuire.	나는 조개류를 익히기 전에 여러 번 헹군다.	I rinse shellfish several times before cooking them.
+v1196	A1-A2	LA NOURRITURE ET LES REPAS	la crevette	J'aime la crevette.	Je décortique les crevettes avant de les ajouter aux pâtes.	나는 파스타에 넣기 전에 새우 껍질을 벗긴다.	I peel the shrimp before adding them to the pasta.
+v1197	A1-A2	LA NOURRITURE ET LES REPAS	le sel	J'aime le sel.	Ajoute le sel petit à petit et goûte la sauce.	소금은 조금씩 넣으면서 소스 맛을 봐.	Add the salt little by little and taste the sauce.
+v1198	A1-A2	LA NOURRITURE ET LES REPAS	le sucre	J'aime le sucre.	Je réduis le sucre dans cette recette.	나는 이 레시피에서 설탕 양을 줄인다.	I reduce the sugar in this recipe.
+v1199	A1-A2	LA NOURRITURE ET LES REPAS	l'huile (f.)	J'aime l'huile.	Je fais chauffer l'huile avant d'ajouter les légumes.	나는 채소를 넣기 전에 기름을 달군다.	I heat the oil before adding the vegetables.
+v1250	A1-A2	LES BOISSONS	la boisson	J'aime la boisson.	Quelle boisson voulez-vous avec votre repas ?	식사와 함께 어떤 음료를 드시겠어요?	What drink would you like with your meal?
+v1251	A1-A2	LES BOISSONS	le café noir	J'aime le café noir.	Je prends un café noir sans sucre le matin.	나는 아침에 설탕 없이 블랙커피를 마신다.	I have black coffee without sugar in the morning.
+v1252	A1-A2	LES BOISSONS	le (café) expresso	J'aime l'expresso.	Je commande un expresso après le déjeuner.	나는 점심 식사 후에 에스프레소를 주문한다.	I order an espresso after lunch.
+v1253	A1-A2	LES BOISSONS	le café allongé	J'aime le café allongé.	Le café allongé est moins fort qu'un expresso.	롱커피는 에스프레소보다 덜 진하다.	A long coffee is less strong than an espresso.
+v1254	A1-A2	LES BOISSONS	le café au lait	J'aime le café au lait.	Je prends un café au lait au petit déjeuner.	나는 아침 식사 때 밀크커피를 마신다.	I have coffee with milk at breakfast.
+v1255	A1-A2	LES BOISSONS	le cappuccino	J'aime le cappuccino.	Elle commande un cappuccino avec beaucoup de mousse.	그녀는 거품이 많은 카푸치노를 주문한다.	She orders a cappuccino with lots of foam.
+v1256	A1-A2	LES BOISSONS	le jus	J'aime le jus.	Je bois un jus d'orange frais le matin.	나는 아침에 신선한 오렌지 주스를 마신다.	I drink fresh orange juice in the morning.
+v1257	A1-A2	LES BOISSONS	le thé	J'aime le thé.	Je bois du thé quand je veux éviter le café.	나는 커피를 피하고 싶을 때 차를 마신다.	I drink tea when I want to avoid coffee.
+v1258	A1-A2	LES BOISSONS	le chocolat chaud	J'aime le chocolat chaud.	Un chocolat chaud me réchauffe après être resté dehors.	밖에 오래 있다가 들어오면 핫초콜릿으로 몸을 녹인다.	Hot chocolate warms me up after I've been outside.
+v1259	A1-A2	LES BOISSONS	le lait	J'aime le lait.	J'ajoute un peu de lait dans mon café.	나는 커피에 우유를 조금 넣는다.	I add a little milk to my coffee.
+v1260	A1-A2	LES BOISSONS	le coca	J'aime le coca.	Je prends un coca avec mon hamburger.	나는 햄버거와 함께 콜라를 마신다.	I have a cola with my hamburger.
+v1261	A1-A2	LES BOISSONS	le soda	J'aime le soda.	Je bois rarement du soda parce que c'est très sucré.	나는 탄산음료가 너무 달아서 거의 마시지 않는다.	I rarely drink soda because it is very sweet.
+v1262	A1-A2	LES BOISSONS	la limonade	J'aime la limonade.	Cette limonade est fraîche et pas trop sucrée.	이 레모네이드는 시원하고 너무 달지 않다.	This lemonade is refreshing and not too sweet.
+v1263	A1-A2	LES BOISSONS	l'eau gazeuse (f.)	J'aime l'eau gazeuse.	Je préfère l'eau gazeuse pendant le repas.	나는 식사할 때 탄산수를 더 좋아한다.	I prefer sparkling water with my meal.
+v1264	A1-A2	LES BOISSONS	l'alcool (m.)	J'aime l'alcool.	Il évite l'alcool quand il doit conduire.	그는 운전해야 할 때 술을 피한다.	He avoids alcohol when he has to drive.
+v1265	A1-A2	LES BOISSONS	la bière	J'aime la bière.	Il commande une bière pression avec son repas.	그는 식사와 함께 생맥주를 주문한다.	He orders a draft beer with his meal.
+v1266	A1-A2	LES BOISSONS	le vin	J'aime le vin.	Le serveur nous conseille un vin qui va bien avec le poisson.	서버가 생선과 잘 어울리는 와인을 추천해 준다.	The server recommends a wine that goes well with the fish.
+v1267	A1-A2	LES BOISSONS	la champagne	J'aime la champagne.	On ouvre une bouteille de champagne pour célébrer la bonne nouvelle.	우리는 좋은 소식을 축하하려고 샴페인 한 병을 연다.	We open a bottle of champagne to celebrate the good news.
+v1268	A1-A2	LES BOISSONS	le yaourt	J'aime le yaourt.	Je mange un yaourt avec des fruits au petit déjeuner.	나는 아침 식사로 과일을 넣은 요구르트를 먹는다.	I eat yogurt with fruit for breakfast.

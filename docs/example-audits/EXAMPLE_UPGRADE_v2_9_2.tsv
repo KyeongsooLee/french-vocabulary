@@ -1,0 +1,160 @@
+id	level	category	word	old_example	new_example	new_ko	new_en
+v0563	A1-A2	L’ENDROIT	le lieu	Nous passons près du lieu.	C'est un lieu calme où l'on peut travailler sans être dérangé.	이곳은 방해받지 않고 일할 수 있는 조용한 장소다.	It is a quiet place where you can work without being disturbed.
+v0568	A1-A2	L’ENDROIT	le quartier	Nous passons près du quartier.	Ce quartier est bien desservi par les transports en commun.	이 동네는 대중교통이 잘 연결되어 있다.	This neighborhood is well served by public transit.
+v0569	A1-A2	L’ENDROIT	le centre-ville	Nous passons près du centre-ville.	Le centre-ville est très animé le vendredi soir.	도심은 금요일 저녁에 매우 활기차다.	Downtown is very lively on Friday evening.
+v0570	A1-A2	L’ENDROIT	le parc	Nous passons près du parc.	Je vais courir dans le parc après le travail.	나는 퇴근 후 공원에서 달린다.	I go running in the park after work.
+v0575	A1-A2	L’ENDROIT	le boulevard	Nous passons près du boulevard.	Le bus circule sur ce boulevard toute la journée.	버스는 하루 종일 이 대로를 다닌다.	The bus runs along this boulevard all day.
+v0578	A1-A2	L’ENDROIT	le chemin	Nous passons près du chemin.	Suivez ce chemin jusqu'au lac.	이 길을 따라 호수까지 가세요.	Follow this path to the lake.
+v0580	A1-A2	L’ENDROIT	le marché	Nous passons près du marché.	J'achète des légumes frais au marché le samedi matin.	나는 토요일 아침 시장에서 신선한 채소를 산다.	I buy fresh vegetables at the market on Saturday morning.
+v0582	A1-A2	L’ENDROIT	le supermarché	Nous passons près du supermarché.	Je passe au supermarché après le travail pour acheter du lait.	나는 퇴근 후 우유를 사려고 슈퍼마켓에 들른다.	I stop by the supermarket after work to buy milk.
+v0583	A1-A2	L’ENDROIT	le centre commercial	Nous passons près du centre commercial.	Le centre commercial ferme à neuf heures ce soir.	쇼핑몰은 오늘 저녁 9시에 문을 닫는다.	The shopping mall closes at nine tonight.
+v0584	A1-A2	L’ENDROIT	le magasin	Nous passons près du magasin.	Ce magasin accepte les retours pendant trente jours.	이 가게는 30일 동안 반품을 받는다.	This store accepts returns for thirty days.
+v0585	A1-A2	L’ENDROIT	le grand magasin	Nous passons près du grand magasin.	Le grand magasin organise des soldes à la fin de la saison.	백화점은 시즌 말에 세일을 한다.	The department store holds sales at the end of the season.
+v0586	A1-A2	L’ENDROIT	le restaurant	Nous passons près du restaurant.	Nous avons réservé une table au restaurant pour huit heures.	우리는 저녁 8시에 식당 테이블을 예약했다.	We booked a table at the restaurant for eight.
+v0587	A1-A2	L’ENDROIT	le café	Nous passons près du café.	On se retrouve au café en face de la station.	역 맞은편 카페에서 만나자.	Let's meet at the café across from the station.
+v0588	A1-A2	L’ENDROIT	le bar	Nous passons près du bar.	Ce bar sert des cocktails jusqu'à minuit.	이 바는 자정까지 칵테일을 제공한다.	This bar serves cocktails until midnight.
+v0596	A1-A2	L’ENDROIT	le commissariat	Nous passons près du commissariat.	Je vais au commissariat pour déclarer la perte de mon portefeuille.	나는 지갑 분실 신고를 하러 경찰서에 간다.	I'm going to the police station to report my lost wallet.
+v0598	A1-A2	L’ENDROIT	le pressing	Nous passons près du pressing.	Je dépose ma veste au pressing ce soir.	나는 오늘 저녁 재킷을 세탁소에 맡긴다.	I'm dropping off my jacket at the dry cleaner's tonight.
+v0601	A1-A2	L’ENDROIT	le musée	Nous passons près du musée.	L'entrée du musée est gratuite le dimanche matin.	박물관은 일요일 오전에 입장이 무료다.	Admission to the museum is free on Sunday morning.
+v0602	A1-A2	L’ENDROIT	le cinéma	Nous passons près du cinéma.	Le film commence au cinéma à sept heures et demie.	영화관에서 영화가 7시 30분에 시작한다.	The movie starts at the cinema at seven thirty.
+v0603	A1-A2	L’ENDROIT	le théâtre	Nous passons près du théâtre.	Nous avons acheté des billets pour le théâtre samedi soir.	우리는 토요일 저녁 연극 표를 샀다.	We bought tickets for the theater on Saturday evening.
+v0604	A1-A2	L’ENDROIT	le salon de coiffure	Nous passons près du salon de coiffure.	J'ai rendez-vous au salon de coiffure à trois heures.	나는 3시에 미용실 예약이 있다.	I have an appointment at the hair salon at three.
+v0615	A1-A2	L’ENDROIT	le temple	Nous passons près du temple.	Il faut enlever ses chaussures avant d'entrer dans le temple.	사원에 들어가기 전에 신발을 벗어야 한다.	You have to take off your shoes before entering the temple.
+v0616	A1-A2	L’ENDROIT	le château	Nous passons près du château.	Le château domine la vallée depuis le sommet de la colline.	그 성은 언덕 꼭대기에서 계곡을 내려다본다.	The castle overlooks the valley from the top of the hill.
+v0621	A1-A2	L’ENDROIT	le bureau	Nous passons près du bureau.	Je laisse les documents sur votre bureau.	서류를 당신 책상 위에 두겠습니다.	I'll leave the documents on your desk.
+v0624	A1-A2	L’ENDROIT	le terrain de jeu	Nous passons près du terrain de jeu.	Les enfants jouent au terrain de jeu après l'école.	아이들은 방과 후 놀이터에서 논다.	The children play at the playground after school.
+v0625	A1-A2	L’ENDROIT	le collège	Nous passons près du collège.	Elle est entrée au collège cette année.	그녀는 올해 중학교에 들어갔다.	She started middle school this year.
+v0626	A1-A2	L’ENDROIT	le lycée	Nous passons près du lycée.	Il prépare le baccalauréat au lycée.	그는 고등학교에서 바칼로레아 시험을 준비하고 있다.	He is preparing for the baccalaureate in high school.
+v0629	A1-A2	L’ENDROIT	le parking	Nous passons près du parking.	Le parking est complet, cherchons une place dans la rue.	주차장이 만차이니 길가에서 자리를 찾아보자.	The parking lot is full, so let's look for a space on the street.
+v0634	A1-A2	L’ENDROIT	le port	Nous passons près du port.	Les bateaux de pêche rentrent au port tôt le matin.	어선들은 이른 아침 항구로 돌아온다.	The fishing boats return to the port early in the morning.
+v0635	A1-A2	L’ENDROIT	le fleuve	Nous passons près du fleuve.	Ce fleuve traverse plusieurs régions avant d'atteindre la mer.	이 강은 바다에 닿기 전에 여러 지역을 지난다.	This river crosses several regions before reaching the sea.
+v0637	A1-A2	L’ENDROIT	le pont	Nous passons près du pont.	Traversez le pont, puis tournez à droite.	다리를 건넌 다음 오른쪽으로 도세요.	Cross the bridge, then turn right.
+v0640	A1-A2	L’ENDROIT	le bois	Nous passons près du bois.	Nous nous promenons dans le bois quand il ne pleut pas.	비가 오지 않을 때 우리는 숲에서 산책한다.	We take walks in the woods when it isn't raining.
+v0641	A1-A2	L’ENDROIT	le parc d'attractions	Nous passons près du parc d'attractions.	Le parc d'attractions ouvre plus tard pendant l'été.	놀이공원은 여름에 더 늦게까지 운영한다.	The amusement park stays open later during the summer.
+v0644	A1-A2	L’ENDROIT	le carrefour	Nous passons près du carrefour.	Tournez à gauche au prochain carrefour.	다음 교차로에서 왼쪽으로 도세요.	Turn left at the next intersection.
+v0645	A1-A2	L’ENDROIT	le passage piéton	Nous passons près du passage piéton.	Utilisez le passage piéton pour traverser la rue.	길을 건널 때 횡단보도를 이용하세요.	Use the crosswalk to cross the street.
+v0646	A1-A2	L’ENDROIT	le trottoir	Nous passons près du trottoir.	Le trottoir est glissant à cause de la neige.	눈 때문에 보도가 미끄럽다.	The sidewalk is slippery because of the snow.
+v0647	A1-A2	L’ENDROIT	le lac	Nous passons près du lac.	On peut faire du kayak sur le lac en été.	여름에는 호수에서 카약을 탈 수 있다.	You can kayak on the lake in summer.
+v0648	A1-A2	L’ENDROIT	le marais	Nous passons près du marais.	De nombreuses espèces d'oiseaux vivent dans ce marais.	많은 종류의 새들이 이 습지에 산다.	Many species of birds live in this marsh.
+v0649	A1-A2	L’ENDROIT	le désert	Nous passons près du désert.	La température chute fortement dans le désert pendant la nuit.	사막에서는 밤에 기온이 크게 떨어진다.	The temperature drops sharply in the desert at night.
+v0651	A1-A2	L’ENDROIT	le parc zoologique	Nous passons près du parc zoologique.	Le parc zoologique participe à la protection de plusieurs espèces menacées.	그 동물원은 여러 멸종위기종 보호에 참여한다.	The zoo takes part in protecting several endangered species.
+v0652	A1-A2	L’ENDROIT	le jardin botanique	Nous passons près du jardin botanique.	Le jardin botanique abrite des plantes venues du monde entier.	그 식물원에는 전 세계에서 온 식물들이 있다.	The botanical garden houses plants from around the world.
+v0653	A1-A2	L’ENDROIT	le cimetière	Nous passons près du cimetière.	Le cimetière se trouve derrière l'église.	묘지는 교회 뒤에 있다.	The cemetery is behind the church.
+v0655	A1-A2	L’ENDROIT	le bâtiment	Nous passons près du bâtiment.	Ce bâtiment a été rénové l'année dernière.	이 건물은 지난해에 리모델링되었다.	This building was renovated last year.
+v0657	A1-A2	L’ENDROIT	le palais	Nous passons près du palais.	Le palais est ouvert au public pendant l'été.	궁전은 여름 동안 일반에 공개된다.	The palace is open to the public during the summer.
+v0658	A1-A2	L’ENDROIT	le palais de justice	Nous passons près du palais de justice.	Le procès aura lieu au palais de justice le mois prochain.	재판은 다음 달 법원에서 열릴 예정이다.	The trial will take place at the courthouse next month.
+v0661	A1-A2	L’ENDROIT	le champ	Nous passons près du champ.	Les agriculteurs travaillent dans le champ dès le lever du soleil.	농부들은 해 뜰 때부터 밭에서 일한다.	The farmers work in the field from sunrise.
+v0951	A1-A2	LA NATURE	la plante	On voit souvent la plante dans la nature.	Cette plante a besoin de beaucoup de lumière.	이 식물은 빛이 많이 필요하다.	This plant needs a lot of light.
+v0952	A1-A2	LA NATURE	l'arbre (m.)	On voit souvent l'arbre dans la nature.	Cet arbre perd ses feuilles en automne.	이 나무는 가을에 잎이 떨어진다.	This tree loses its leaves in autumn.
+v0953	A1-A2	LA NATURE	la fleur	On voit souvent la fleur dans la nature.	Cette fleur commence à s'ouvrir au printemps.	이 꽃은 봄에 피기 시작한다.	This flower begins to bloom in spring.
+v0954	A1-A2	LA NATURE	l'herbe (f.)	On voit souvent l'herbe dans la nature.	L'herbe est encore mouillée après la pluie.	비가 온 뒤라 잔디가 아직 젖어 있다.	The grass is still wet after the rain.
+v0955	A1-A2	LA NATURE	le tronc	On voit souvent le tronc dans la nature.	Le tronc de cet arbre est très épais.	이 나무의 줄기는 매우 굵다.	The trunk of this tree is very thick.
+v0956	A1-A2	LA NATURE	la feuille	On voit souvent la feuille dans la nature.	Une feuille est tombée sur mon manteau.	잎 하나가 내 코트 위에 떨어졌다.	A leaf fell on my coat.
+v0957	A1-A2	LA NATURE	la racine	On voit souvent la racine dans la nature.	Les racines absorbent l'eau dans le sol.	뿌리는 땅속의 물을 흡수한다.	Roots absorb water from the soil.
+v0958	A1-A2	LA NATURE	la branche	On voit souvent la branche dans la nature.	Une branche est tombée pendant la tempête.	폭풍 동안 나뭇가지 하나가 떨어졌다.	A branch fell during the storm.
+v0959	A1-A2	LA NATURE	le pétale	On voit souvent le pétale dans la nature.	Un pétale est tombé de la fleur.	꽃잎 하나가 꽃에서 떨어졌다.	A petal fell from the flower.
+v0960	A1-A2	LA NATURE	la rose	On voit souvent la rose dans la nature.	Il lui a offert une rose rouge pour son anniversaire.	그는 그녀의 생일에 빨간 장미 한 송이를 선물했다.	He gave her a red rose for her birthday.
+v0961	A1-A2	LA NATURE	le tournesol	On voit souvent le tournesol dans la nature.	Le tournesol se tourne vers la lumière.	해바라기는 빛이 있는 방향으로 향한다.	The sunflower turns toward the light.
+v0962	A1-A2	LA NATURE	la tulipe	On voit souvent la tulipe dans la nature.	Les tulipes fleurissent au début du printemps.	튤립은 초봄에 핀다.	Tulips bloom in early spring.
+v0963	A1-A2	LA NATURE	le lis / lys	On voit souvent le lis dans la nature.	Le lis blanc dégage un parfum assez fort.	흰 백합은 향이 꽤 강하다.	The white lily has a fairly strong fragrance.
+v0964	A1-A2	LA NATURE	le cerisier	On voit souvent le cerisier dans la nature.	Le cerisier est couvert de fleurs roses au printemps.	벚나무는 봄이 되면 분홍 꽃으로 뒤덮인다.	The cherry tree is covered with pink blossoms in spring.
+v0965	A1-A2	LA NATURE	la terre	On voit souvent la terre dans la nature.	La terre est trop sèche ; il faut arroser les plantes.	흙이 너무 말랐으니 식물에 물을 줘야 한다.	The soil is too dry; the plants need watering.
+v0966	A1-A2	LA NATURE	le sable	On voit souvent le sable dans la nature.	Le sable est brûlant en plein après-midi.	한낮에는 모래가 뜨겁다.	The sand is scorching hot in the middle of the afternoon.
+v0967	A1-A2	LA NATURE	le ciel	On voit souvent le ciel dans la nature.	Le ciel devient orange juste avant le coucher du soleil.	해가 지기 직전에 하늘이 주황빛으로 변한다.	The sky turns orange just before sunset.
+v0968	A1-A2	LA NATURE	l'étoile (f.)	On voit souvent l'étoile dans la nature.	On voit mieux les étoiles loin des lumières de la ville.	도시의 불빛에서 멀리 떨어지면 별이 더 잘 보인다.	You can see the stars better away from city lights.
+v0969	A1-A2	LA NATURE	la lune	On voit souvent la lune dans la nature.	La lune est presque pleine ce soir.	오늘 밤 달은 거의 보름달이다.	The moon is almost full tonight.
+v0970	A1-A2	LA NATURE	l'univers (m.)	On voit souvent l'univers dans la nature.	L'univers contient des milliards de galaxies.	우주에는 수십억 개의 은하가 있다.	The universe contains billions of galaxies.
+v0971	A1-A2	LA NATURE	le volcan	On voit souvent le volcan dans la nature.	Le volcan est surveillé en raison d'une activité récente.	최근 활동 때문에 그 화산을 감시하고 있다.	The volcano is being monitored because of recent activity.
+v0972	A1-A2	LA NATURE	le glacier	On voit souvent le glacier dans la nature.	Ce glacier recule à cause de la hausse des températures.	이 빙하는 기온 상승 때문에 줄어들고 있다.	This glacier is retreating because of rising temperatures.
+v0973	A1-A2	LA NATURE	la météo	On voit souvent la météo dans la nature.	Je vérifie la météo avant de partir en randonnée.	나는 하이킹을 떠나기 전에 날씨를 확인한다.	I check the weather before going hiking.
+v0977	A1-A2	LA NATURE	le nuage	On voit souvent le nuage dans la nature.	De gros nuages arrivent par l'ouest.	큰 구름이 서쪽에서 다가오고 있다.	Large clouds are moving in from the west.
+v0979	A1-A2	LA NATURE	la brise	On voit souvent la brise dans la nature.	Une légère brise rend la chaleur plus supportable.	가벼운 산들바람 덕분에 더위를 견디기 쉬워진다.	A light breeze makes the heat more bearable.
+v0981	A1-A2	LA NATURE	l'ambiance (f.)	On voit souvent l'ambiance dans la nature.	L'ambiance du restaurant est calme et chaleureuse.	그 식당의 분위기는 차분하고 따뜻하다.	The atmosphere in the restaurant is calm and welcoming.
+v0982	A1-A2	LA NATURE	l'arc-en-ciel (m.)	On voit souvent l'arc-en-ciel dans la nature.	Un arc-en-ciel est apparu après l'orage.	폭풍우가 지나간 뒤 무지개가 나타났다.	A rainbow appeared after the storm.
+v0988	A1-A2	LA NATURE	l'inondation (f.)	On voit souvent l'inondation dans la nature.	L'inondation a bloqué plusieurs routes de la région.	홍수로 그 지역의 여러 도로가 막혔다.	The flood blocked several roads in the area.
+v0989	A1-A2	LA NATURE	la sécheresse	On voit souvent la sécheresse dans la nature.	La sécheresse a réduit les récoltes cette année.	가뭄으로 올해 수확량이 줄었다.	The drought reduced harvests this year.
+v0990	A1-A2	LA NATURE	l'eau (f.)	On voit souvent l'eau dans la nature.	Il faut boire assez d'eau quand il fait chaud.	더울 때는 물을 충분히 마셔야 한다.	You need to drink enough water when it is hot.
+v0991	A1-A2	LA NATURE	la vague	On voit souvent la vague dans la nature.	Une grosse vague a éclaboussé tout le monde sur le bateau.	큰 파도가 배 위의 모든 사람에게 물을 튀겼다.	A large wave splashed everyone on the boat.
+v0992	A1-A2	LA NATURE	la température	On voit souvent la température dans la nature.	La température va descendre sous zéro cette nuit.	오늘 밤 기온이 영하로 내려갈 것이다.	The temperature will drop below zero tonight.
+v0993	A1-A2	LA NATURE	le thermomètre	On voit souvent le thermomètre dans la nature.	Le thermomètre indique trente degrés.	온도계가 30도를 가리킨다.	The thermometer shows thirty degrees.
+v0994	A1-A2	LA NATURE	la chaleur	On voit souvent la chaleur dans la nature.	La chaleur devient difficile à supporter l'après-midi.	오후가 되면 더위를 견디기 힘들어진다.	The heat becomes hard to bear in the afternoon.
+v0995	A1-A2	LA NATURE	l'humidité (f.)	On voit souvent l'humidité dans la nature.	L'humidité est très élevée aujourd'hui.	오늘 습도가 매우 높다.	The humidity is very high today.
+v0996	A1-A2	LA NATURE	la lumière	On voit souvent la lumière dans la nature.	Cette pièce manque de lumière naturelle.	이 방은 자연광이 부족하다.	This room lacks natural light.
+v0997	A1-A2	LA NATURE	le tremblement de terre	On voit souvent le tremblement de terre dans la nature.	Le tremblement de terre a été ressenti dans plusieurs villes.	지진이 여러 도시에서 감지되었다.	The earthquake was felt in several cities.
+v0998	A1-A2	LA NATURE	la pierre	On voit souvent la pierre dans la nature.	Il a ramassé une petite pierre sur la plage.	그는 해변에서 작은 돌 하나를 주웠다.	He picked up a small stone on the beach.
+v0999	A1-A2	LA NATURE	le rocher	On voit souvent le rocher dans la nature.	Le bateau s'est approché trop près du rocher.	배가 바위에 너무 가까이 접근했다.	The boat got too close to the rock.
+v1000	A1-A2	LE CORPS	le corps	Le médecin examine le corps.	Il faut bien s'échauffer avant l'entraînement pour préparer le corps.	운동 전에 몸을 준비하려면 충분히 워밍업해야 한다.	You should warm up well before training to prepare your body.
+v1001	A1-A2	LE CORPS	le bras	Le médecin examine le bras.	J'ai mal au bras depuis que j'ai porté cette boîte lourde.	무거운 상자를 든 뒤부터 팔이 아프다.	My arm has hurt since I carried that heavy box.
+v1002	A1-A2	LE CORPS	le coude	Le médecin examine le coude.	Je me suis cogné le coude contre la table.	나는 테이블에 팔꿈치를 부딪쳤다.	I hit my elbow on the table.
+v1003	A1-A2	LE CORPS	la main	Le médecin examine la main.	Lavez-vous les mains avant de préparer à manger.	음식을 준비하기 전에 손을 씻으세요.	Wash your hands before preparing food.
+v1004	A1-A2	LE CORPS	le poignet	Le médecin examine le poignet.	J'ai mal au poignet quand je soulève une casserole lourde.	무거운 냄비를 들면 손목이 아프다.	My wrist hurts when I lift a heavy pot.
+v1005	A1-A2	LE CORPS	le doigt	Le médecin examine le doigt.	Je me suis coupé le doigt en préparant les légumes.	채소를 손질하다가 손가락을 베었다.	I cut my finger while preparing the vegetables.
+v1006	A1-A2	LE CORPS	l'ongle (m.)	Le médecin examine l'ongle.	Je me suis cassé un ongle en ouvrant la boîte.	상자를 열다가 손톱 하나가 부러졌다.	I broke a nail while opening the box.
+v1007	A1-A2	LE CORPS	l'orteil (m.)	Le médecin examine l'orteil.	Je me suis cogné l'orteil contre le pied du lit.	침대 다리에 발가락을 찧었다.	I stubbed my toe on the bed frame.
+v1008	A1-A2	LE CORPS	la cheville	Le médecin examine la cheville.	Je me suis tordu la cheville en descendant l'escalier.	계단을 내려가다가 발목을 삐었다.	I twisted my ankle while going down the stairs.
+v1009	A1-A2	LE CORPS	le pied	Le médecin examine le pied.	J'ai mal au pied après avoir marché toute la journée.	하루 종일 걸어서 발이 아프다.	My foot hurts after walking all day.
+v1010	A1-A2	LE CORPS	le genou	Le médecin examine le genou.	Mon genou me fait mal quand je monte les escaliers.	계단을 오를 때 무릎이 아프다.	My knee hurts when I climb stairs.
+v1011	A1-A2	LE CORPS	la jambe	Le médecin examine la jambe.	J'ai les jambes fatiguées après le travail.	일을 마치고 나면 다리가 피곤하다.	My legs are tired after work.
+v1012	A1-A2	LE CORPS	la cuisse	Le médecin examine la cuisse.	J'ai une douleur à la cuisse après avoir couru.	달리고 나서 허벅지가 아프다.	I have pain in my thigh after running.
+v1013	A1-A2	LE CORPS	le mollet	Le médecin examine le mollet.	J'ai une crampe au mollet après la course.	달리기 후에 종아리에 쥐가 났다.	I have a cramp in my calf after the run.
+v1014	A1-A2	LE CORPS	les fesses (f.)	Le médecin examine les fesses.	Il est tombé sur les fesses en glissant sur la glace.	그는 얼음 위에서 미끄러져 엉덩방아를 찧었다.	He landed on his backside after slipping on the ice.
+v1015	A1-A2	LE CORPS	le dos	Le médecin examine le dos.	J'ai mal au dos après être resté debout toute la journée.	하루 종일 서 있었더니 등이 아프다.	My back hurts after standing all day.
+v1016	A1-A2	LE CORPS	le ventre	Le médecin examine le ventre.	J'ai mal au ventre depuis ce matin.	오늘 아침부터 배가 아프다.	I've had a stomachache since this morning.
+v1017	A1-A2	LE CORPS	le nombril	Le médecin examine le nombril.	Le bébé a encore son nombril recouvert d'un petit pansement.	아기는 아직 배꼽에 작은 밴드를 붙이고 있다.	The baby's belly button is still covered with a small bandage.
+v1018	A1-A2	LE CORPS	la taille	Le médecin examine la taille.	Ce pantalon est trop serré à la taille.	이 바지는 허리가 너무 꽉 낀다.	These pants are too tight at the waist.
+v1019	A1-A2	LE CORPS	la poitrine	Le médecin examine la poitrine.	Elle ressent une douleur dans la poitrine quand elle respire profondément.	그녀는 깊이 숨 쉴 때 가슴에 통증을 느낀다.	She feels pain in her chest when she breathes deeply.
+v1020	A1-A2	LE CORPS	l'épaule (f.)	Le médecin examine l'épaule.	J'ai mal à l'épaule après avoir porté mon sac toute la journée.	하루 종일 가방을 메고 다녀서 어깨가 아프다.	My shoulder hurts after carrying my bag all day.
+v1021	A1-A2	LE CORPS	la nuque	Le médecin examine la nuque.	J'ai la nuque raide après avoir dormi dans une mauvaise position.	잘못된 자세로 자서 목덜미가 뻣뻣하다.	My neck is stiff after sleeping in a bad position.
+v1022	A1-A2	LE CORPS	le cou	Le médecin examine le cou.	Cette chemise est trop serrée au niveau du cou.	이 셔츠는 목 부분이 너무 꽉 낀다.	This shirt is too tight around the neck.
+v1023	A1-A2	LE CORPS	la gorge	Le médecin examine la gorge.	J'ai mal à la gorge et j'ai du mal à avaler.	목이 아프고 삼키기 힘들다.	I have a sore throat and it's hard to swallow.
+v1024	A1-A2	LE CORPS	la tête	Le médecin examine la tête.	J'ai mal à la tête depuis ce matin.	오늘 아침부터 머리가 아프다.	I've had a headache since this morning.
+v1025	A1-A2	LE CORPS	le visage	Le médecin examine le visage.	Lavez-vous le visage à l'eau tiède.	미지근한 물로 얼굴을 씻으세요.	Wash your face with lukewarm water.
+v1027	A1-A2	LE CORPS	l'œil (m.)	Le médecin examine l'œil.	J'ai quelque chose dans l'œil.	눈에 뭔가 들어갔다.	I have something in my eye.
+v1028	A1-A2	LE CORPS	les yeux (m.)	Le médecin examine les yeux.	Mes yeux sont fatigués après plusieurs heures devant l'écran.	몇 시간 동안 화면을 봐서 눈이 피곤하다.	My eyes are tired after several hours in front of the screen.
+v1029	A1-A2	LE CORPS	les sourcils (m.)	Le médecin examine les sourcils.	Elle lève les sourcils quand elle est surprise.	그녀는 놀라면 눈썹을 치켜올린다.	She raises her eyebrows when she is surprised.
+v1030	A1-A2	LE CORPS	les cils (m.)	Le médecin examine les cils.	Elle a de longs cils naturels.	그녀는 속눈썹이 자연스럽게 길다.	She has naturally long eyelashes.
+v1031	A1-A2	LE CORPS	le nez	Le médecin examine le nez.	J'ai le nez bouché depuis hier.	어제부터 코가 막혀 있다.	My nose has been blocked since yesterday.
+v1032	A1-A2	LE CORPS	la bouche	Le médecin examine la bouche.	Ouvre la bouche et dis « ah ».	입을 벌리고 ‘아’라고 하세요.	Open your mouth and say 'ah.'
+v1033	A1-A2	LE CORPS	la lèvre	Le médecin examine la lèvre.	Je me suis mordu la lèvre en mangeant.	먹다가 입술을 깨물었다.	I bit my lip while eating.
+v1034	A1-A2	LE CORPS	la langue	Le médecin examine la langue.	Je me suis brûlé la langue avec le café trop chaud.	너무 뜨거운 커피에 혀를 데었다.	I burned my tongue on the coffee because it was too hot.
+v1036	A1-A2	LE CORPS	la dent	Le médecin examine la dent.	J'ai une dent sensible au froid.	찬 것에 시린 이가 하나 있다.	I have a tooth that is sensitive to cold.
+v1037	A1-A2	LE CORPS	le menton	Le médecin examine le menton.	Il s'est coupé au menton en se rasant.	그는 면도하다가 턱을 베었다.	He cut his chin while shaving.
+v1038	A1-A2	LE CORPS	l'oreille (f.)	Le médecin examine l'oreille.	J'ai mal à l'oreille depuis cette nuit.	어젯밤부터 귀가 아프다.	My ear has hurt since last night.
+v1039	A1-A2	LE CORPS	la joue	Le médecin examine la joue.	L'enfant a une petite coupure sur la joue.	아이는 볼에 작은 상처가 있다.	The child has a small cut on the cheek.
+v1040	A1-A2	LE CORPS	le front	Le médecin examine le front.	Il a posé la main sur son front pour vérifier s'il avait de la fièvre.	그는 열이 있는지 확인하려고 이마에 손을 댔다.	He put his hand on his forehead to check whether he had a fever.
+v1041	A1-A2	LE CORPS	la peau	Le médecin examine la peau.	Ma peau devient très sèche en hiver.	내 피부는 겨울에 매우 건조해진다.	My skin gets very dry in winter.
+v1042	A1-A2	LE CORPS	la barbe	Le médecin examine la barbe.	Il se taille la barbe une fois par semaine.	그는 일주일에 한 번 수염을 다듬는다.	He trims his beard once a week.
+v1043	A1-A2	LE CORPS	la moustache	Le médecin examine la moustache.	Il a décidé de se laisser pousser la moustache.	그는 콧수염을 기르기로 했다.	He decided to grow a mustache.
+v1044	A1-A2	LE CORPS	l'os (m.)	Le médecin examine l'os.	Il s'est cassé un os de la main en tombant.	그는 넘어지면서 손의 뼈 하나가 부러졌다.	He broke a bone in his hand when he fell.
+v1045	A1-A2	LE CORPS	le cœur	Le médecin examine le cœur.	L'exercice régulier est bon pour le cœur.	규칙적인 운동은 심장에 좋다.	Regular exercise is good for the heart.
+v1048	A1-A2	LE CORPS	le muscle	Le médecin examine le muscle.	Je fais des exercices pour renforcer les muscles du dos.	나는 등 근육을 강화하려고 운동한다.	I do exercises to strengthen my back muscles.
+v1050	A1-A2	LES GENS ET FAMILLE	les gens	Je parle souvent avec les gens.	Il y avait beaucoup de gens dans le métro ce matin.	오늘 아침 지하철에 사람이 많았다.	There were a lot of people on the subway this morning.
+v1051	A1-A2	LES GENS ET FAMILLE	la personne	Je parle souvent avec la personne.	Une personne vous attend à la réception.	한 분이 리셉션에서 당신을 기다리고 있다.	Someone is waiting for you at reception.
+v1053	A1-A2	LES GENS ET FAMILLE	le peuple	Je parle souvent avec le peuple.	Le peuple a voté pour choisir son nouveau président.	국민은 새 대통령을 뽑기 위해 투표했다.	The people voted to choose their new president.
+v1054	A1-A2	LES GENS ET FAMILLE	l'humain (m.)	Je parle souvent avec l'humain.	Chaque humain a besoin d'eau pour vivre.	모든 인간은 살아가기 위해 물이 필요하다.	Every human needs water to live.
+v1055	A1-A2	LES GENS ET FAMILLE	le genre humain	Je parle souvent avec le genre humain.	Le changement climatique concerne l'ensemble du genre humain.	기후 변화는 인류 전체와 관련된 문제다.	Climate change concerns all of humankind.
+v1056	A1-A2	LES GENS ET FAMILLE	l'homme (m.)	Je parle souvent avec l'homme.	Un homme m'a aidé à porter ma valise.	한 남자가 내 여행가방을 드는 것을 도와줬다.	A man helped me carry my suitcase.
+v1057	A1-A2	LES GENS ET FAMILLE	la femme	Je parle souvent avec la femme.	Une femme travaille à l'accueil aujourd'hui.	오늘 접수 데스크에는 한 여성이 근무하고 있다.	A woman is working at reception today.
+v1059	A1-A2	LES GENS ET FAMILLE	le couple	Je parle souvent avec le couple.	Le couple cherche un appartement plus grand.	그 커플은 더 큰 아파트를 찾고 있다.	The couple is looking for a larger apartment.
+v1060	A1-A2	LES GENS ET FAMILLE	l'épouse (f.)	Je parle souvent avec l'épouse.	Son épouse travaille dans un hôpital.	그의 아내는 병원에서 일한다.	His wife works in a hospital.
+v1061	A1-A2	LES GENS ET FAMILLE	l'époux (m.)	Je parle souvent avec l'époux.	Son époux l'accompagnera au rendez-vous.	그녀의 남편이 약속 장소에 함께 갈 것이다.	Her husband will accompany her to the appointment.
+v1062	A1-A2	LES GENS ET FAMILLE	la famille	Je parle souvent avec la famille.	Toute la famille se réunit pour l'anniversaire de ma mère.	온 가족이 어머니 생일을 위해 모인다.	The whole family gets together for my mother's birthday.
+v1063	A1-A2	LES GENS ET FAMILLE	les parents	Je parle souvent avec les parents.	Mes parents vivent à deux heures d'ici.	우리 부모님은 여기서 두 시간 거리에 사신다.	My parents live two hours from here.
+v1068	A1-A2	LES GENS ET FAMILLE	les enfants	Je parle souvent avec les enfants.	Les enfants jouent dehors après l'école.	아이들은 방과 후 밖에서 논다.	The children play outside after school.
+v1069	A1-A2	LES GENS ET FAMILLE	le fils	Je parle souvent avec le fils.	Leur fils commence l'université en septembre.	그들의 아들은 9월에 대학에 들어간다.	Their son starts university in September.
+v1070	A1-A2	LES GENS ET FAMILLE	la fille	Je parle souvent avec la fille.	Ma fille apprend à nager cette année.	내 딸은 올해 수영을 배우고 있다.	My daughter is learning to swim this year.
+v1071	A1-A2	LES GENS ET FAMILLE	le garçon	Je parle souvent avec le garçon.	Le garçon attend son bus devant l'école.	그 남자아이는 학교 앞에서 버스를 기다린다.	The boy is waiting for his bus in front of the school.
+v1072	A1-A2	LES GENS ET FAMILLE	le gamin	Je parle souvent avec le gamin.	Le gamin court partout dans le parc.	그 꼬마는 공원 여기저기를 뛰어다닌다.	The kid is running all over the park.
+v1073	A1-A2	LES GENS ET FAMILLE	la gamine	Je parle souvent avec la gamine.	La gamine tient la main de sa mère.	그 여자아이는 엄마의 손을 잡고 있다.	The little girl is holding her mother's hand.
+v1084	A1-A2	LES GENS ET FAMILLE	les grands-parents	Je parle souvent avec les grands-parents.	Mes grands-parents viennent nous voir ce week-end.	우리 조부모님이 이번 주말에 우리를 보러 오신다.	My grandparents are coming to see us this weekend.
+v1089	A1-A2	LES GENS ET FAMILLE	l'oncle	Je parle souvent avec l'oncle.	Mon oncle habite près de la mer.	우리 삼촌은 바다 근처에 산다.	My uncle lives near the sea.
+v1090	A1-A2	LES GENS ET FAMILLE	la tante	Je parle souvent avec la tante.	Ma tante prépare toujours un dessert pour les fêtes.	우리 이모는 명절 때마다 항상 디저트를 준비한다.	My aunt always makes a dessert for family celebrations.
+v1091	A1-A2	LES GENS ET FAMILLE	la cousine	Je parle souvent avec la cousine.	Ma cousine vient de trouver un nouvel emploi.	내 여자 사촌은 방금 새 직장을 구했다.	My female cousin has just found a new job.
+v1092	A1-A2	LES GENS ET FAMILLE	le cousin	Je parle souvent avec le cousin.	Mon cousin joue au hockey depuis son enfance.	내 남자 사촌은 어릴 때부터 하키를 해왔다.	My male cousin has played hockey since childhood.
+v1093	A1-A2	LES GENS ET FAMILLE	la nièce	Je parle souvent avec la nièce.	Ma nièce va entrer à l'école l'année prochaine.	내 조카딸은 내년에 학교에 입학한다.	My niece is going to start school next year.
+v1094	A1-A2	LES GENS ET FAMILLE	le neveu	Je parle souvent avec le neveu.	Mon neveu adore construire des choses avec ses mains.	내 조카아들은 손으로 무언가 만드는 것을 좋아한다.	My nephew loves building things with his hands.
+v1095	A1-A2	LES GENS ET FAMILLE	le gendre	Je parle souvent avec le gendre.	Mon gendre cuisine très bien.	내 사위는 요리를 아주 잘한다.	My son-in-law cooks very well.
+v1096	A1-A2	LES GENS ET FAMILLE	la bru	Je parle souvent avec la bru.	Leur bru travaille dans la même entreprise qu'eux.	그들의 며느리는 그들과 같은 회사에서 일한다.	Their daughter-in-law works at the same company as they do.
+v1097	A1-A2	LES GENS ET FAMILLE	la belle-fille	Je parle souvent avec la belle-fille.	Ma belle-fille vient dîner avec nous ce soir.	내 며느리/의붓딸이 오늘 저녁 우리와 함께 식사하러 온다.	My daughter-in-law/stepdaughter is coming to dinner with us tonight.
+v1098	A1-A2	LES GENS ET FAMILLE	le beau-fils	Je parle souvent avec le beau-fils.	Mon beau-fils commence un nouvel emploi lundi.	내 사위/의붓아들이 월요일에 새 직장을 시작한다.	My son-in-law/stepson starts a new job on Monday.
+v1099	A1-A2	LES GENS ET FAMILLE	le bébé	Je parle souvent avec le bébé.	Le bébé s'est endormi dans la voiture.	아기가 차 안에서 잠들었다.	The baby fell asleep in the car.
